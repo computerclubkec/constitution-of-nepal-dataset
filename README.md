@@ -2,7 +2,7 @@
 
 Welcome to the **Constitution of Nepal** dataset repository! This repository aims to provide a structured and well-organized dataset of the Constitution of Nepal, making it easy for contributions, analysis, and future applications such as **NLP tasks**.
 
-We hope this project will help foster better understanding, accessibility, and research for legal and constitutional data. The original document can be found in the repository as `Constitution_of_Nepal_2072_ENG.pdf`.
+We hope this project will help foster better understanding, accessibility, and research for legal and constitutional data. The original document can be found in the repository as [Constitution_of_Nepal_2072_ENG.pdf](Constitution_of_Nepal_2072_ENG.pdf).
 
 This repository is maintained under the **KEC Computer Club** organization. To learn more about the club, visit [computerclubkec.github.io](https://computerclubkec.github.io).
 
