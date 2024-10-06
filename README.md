@@ -12,24 +12,26 @@ This repository is maintained under the **KEC Computer Club** organization. To l
 
 The constitution is divided into smaller, manageable sections for easy contributions. The dataset is stored in a hierarchical JSON format, allowing for clear organization and easy navigation.
 
-Here’s the file structure:
+Here’s the updated file structure:
 
 ```
-├── index.json          (Main index of the constitution)
-├── sections/           (Directory containing individual section files)
-    ├── preamble.json   (Contains the Preamble)
-    ├── part1_section1.json  (Contains Part 1, Section 1)
-    ├── part1_section2.json  (Contains Part 1, Section 2)
-    ├── part2_section10.json  (Contains Part 2, Section 10)
-    ├── part2_section11.json  (Contains Part 2, Section 11)
-    ├── ...
-├── Constitution_of_Nepal_2072_ENG.pdf (Original PDF document of the Constitution)
+├── index.json                          (Main index of the constitution)
+├── sections/                           (Directory containing individual parts)
+    ├── part1/                          (Directory for Part 1)
+        ├── section1.json               (Contains Part 1, Section 1)
+        ├── section2.json               (Contains Part 1, Section 2)
+    ├── part2/                          (Directory for Part 2)
+        ├── section10.json              (Contains Part 2, Section 10)
+        ├── section11.json              (Contains Part 2, Section 11)
+    ├── ...                             (Additional parts and sections)
+    ├── preamble.json                   (Contains the Preamble)
+├── Constitution_of_Nepal_2072_ENG.pdf  (Original PDF document of the Constitution)
 ```
 
 ### **Main Files**
 
 - **`index.json`**: This file serves as an overview of the entire constitution. It includes references to all parts and sections, with paths to their respective JSON files.
-- **`sections/`**: This directory contains individual JSON files for each section of the constitution.
+- **`sections/`**: This directory contains individual directories for each part of the constitution, with JSON files for each section inside the respective part directory.
 - **`Constitution_of_Nepal_2072_ENG.pdf`**: The original PDF document of the Constitution of Nepal for reference.
 
 ### **Example of `index.json`:**
@@ -48,12 +50,12 @@ Here’s the file structure:
         {
           "section_number": 1,
           "title": "Constitution as the fundamental law",
-          "file": "sections/part1_section1.json"
+          "file": "sections/part1/section1.json"
         },
         {
           "section_number": 2,
           "title": "Sovereignty and state authority",
-          "file": "sections/part1_section2.json"
+          "file": "sections/part1/section2.json"
         }
       ]
     },
@@ -64,12 +66,12 @@ Here’s the file structure:
         {
           "section_number": 10,
           "title": "Not to deprive of citizenship",
-          "file": "sections/part2_section10.json"
+          "file": "sections/part2/section10.json"
         },
         {
           "section_number": 11,
           "title": "To be citizens of Nepal",
-          "file": "sections/part2_section11.json"
+          "file": "sections/part2/section11.json"
         }
       ]
     }
@@ -77,7 +79,7 @@ Here’s the file structure:
 }
 ```
 
-### **Example of Individual Section File (`sections/part1_section1.json`):**
+### **Example of Individual Section File (`sections/part1/section1.json`):**
 ```json
 {
   "section_number": 1,
@@ -105,7 +107,7 @@ We welcome contributions from everyone! To make the process as smooth as possibl
    git checkout -b your-feature-branch
    ```
 
-4. **Add or Edit Section Files**: Navigate to the `sections/` directory. You can create a new section file or edit an existing one. Follow the structure outlined above.
+4. **Add or Edit Section Files**: Navigate to the `sections/` directory. You can create a new section file in the respective part directory or edit an existing one. Follow the structure outlined above.
 
 5. **Update the Index**: If you add a new section, make sure to update `index.json` to include a reference to your new section.
 
