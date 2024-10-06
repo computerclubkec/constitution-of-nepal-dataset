@@ -1,0 +1,25 @@
+{
+  "title": "Constitution of Nepal",
+  "preamble": {
+    "content": "We, the Sovereign People of Nepal...",
+    "file": "sections/preamble.json"
+  },
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Preliminary",
+      "sections": [
+        {
+          "section_number": 1,
+          "title": "Constitution as the fundamental law",
+          "file": "sections/part1_section1.json"
+        },
+        {
+          "section_number": 2,
+          "title": "Sovereignty and state authority",
+          "file": "sections/part1_section2.json"
+        }
+      ]
+    }
+  ]
+}
