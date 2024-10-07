@@ -1,6 +1,11 @@
 {
   "article_number": 2,
   "title": "Sovereignty and state authority",
-  "content": "The sovereignty and state authority of Nepal shall be vested in the Nepalese people. It shall be exercised in accordance with the provisions set forth in this Constitution.",
+  "content": [
+    {
+      "clause_number": 1,
+      "text": "The sovereignty and state authority of Nepal shall be vested in the Nepalese people. It shall be exercised in accordance with the provisions set forth in this Constitution."
+    }
+  ],
   "part_number": 2
 }
