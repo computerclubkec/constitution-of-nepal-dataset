@@ -1,0 +1,27 @@
+{
+  "article_number": 4,
+  "title": "State of Nepal",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Nepal is an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The territory of Nepal shall comprise:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "text": "the territory existing at the time of commencement of this Constitution."
+        },
+        {
+          "type": "subclause",
+          "text": "such other territory as may be acquired after the commencement of this Constitution."
+        }
+      ]
+    }
+  ],
+  "part_number": 1
+}
