@@ -1,0 +1,22 @@
+{
+  "article_number": 9,
+  "title": "National anthem etc",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The national anthem of Nepal shall be as set forth in Schedule-2."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The coat-of-arms of Nepal shall be as set forth in Schedule-3."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The Rhododendron Arboreum shall be the national flower, Crimson Colour shall be the national colour, the Cow shall be the national animal and the Lophophorus shall be the national bird of Nepal."
+    }
+  ],
+  "part_number": 1
+}
