@@ -1,0 +1,22 @@
+{
+  "article_number": 7,
+  "title": "Official language",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The Nepali language in the Devnagari script shall be the official language of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A State may, by a State law, determine one or more than one languages of the nation spoken by a majority of people within the State as its official language(s), in addition to the Nepali language."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Other matters relating to language shall be as decided by the Government of Nepal, on recommendation of the Language Commission."
+    }
+  ],
+  "part_number": 1
+}
