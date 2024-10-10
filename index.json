@@ -17,6 +17,41 @@
           "article_number": 2,
           "title": "Sovereignty and state authority",
           "file": "articles/part1/article2.json"
+        },
+        {
+          "article_number": 3,
+          "title": "Nation",
+          "file": "articles/part1/article3.json"
+        },
+        {
+          "article_number": 4,
+          "title": "State of Nepal",
+          "file": "articles/part1/article4.json"
+        },
+        {
+          "article_number": 5,
+          "title": "National interest",
+          "file": "articles/part1/article5.json"
+        },
+        {
+          "article_number": 6,
+          "title": "Languages of the nation",
+          "file": "articles/part1/article6.json"
+        },
+        {
+          "article_number": 7,
+          "title": "Official language",
+          "file": "articles/part1/article7.json"
+        },
+        {
+          "article_number": 8,
+          "title": "National flag",
+          "file": "articles/part1/article8.json"
+        },
+        {
+          "article_number": 9,
+          "title": "National anthem",
+          "file": "articles/part1/article9.json"
         }
       ]
     },
