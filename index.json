@@ -1,60 +1,95 @@
 {
-	"title": "Constitution of Nepal",
-	"preamble": {
-		"file": "sections/preamble.json"
-	},
-	"parts": [
-		{
-			"part_number": 1,
-			"title": "Preliminary",
-			"sections": [
-				{
-					"article_number": 1,
-					"title": "Constitution as the fundamental law",
-					"file": "sections/part1/article1.json"
-				},
-				{
-					"article_number": 2,
-					"title": "Sovereignty and state authority",
-					"file": "sections/part1/article2.json"
-				}
-			]
-		},
-		{
-			"part_number": 2,
-			"title": "Citizenship",
-			"sections": [
-				{
-					"article_number": 10,
-					"title": "Not to deprive of citizenship",
-					"file": "sections/part2/article10.json"
-				},
-				{
-					"article_number": 11,
-					"title": "To be citizens of Nepal",
-					"file": "sections/part2/article11.json"
-				},
-				{
-					"article_number": 12,
-					"title": "Citizenship with identity of descent and gender",
-					"file": "sections/part2/article12.json"
-				},
-				{
-					"article_number": 13,
-					"title": "Acquisition, reacquisition and termination of citizenship",
-					"file": "sections/part2/article13.json"
-				},
-				{
-					"article_number": 14,
-					"title": "Power to grant non-resident Nepalese citizenship",
-					"file": "sections/part2/article14.json"
-				},
-				{
-					"article_number": 15,
-					"title": "Other provisions relating to citizenship of Nepal",
-					"file": "sections/part2/article15.json"
-				}
-			]
-		}
-	]
+ "title": "Constitution of Nepal",
+  "preamble": {
+    "file": "sections/preamble.json"
+  },
+  "parts": [
+    {
+      "part_number": 1,
+      "title": "Preliminary",
+      "sections": [
+        {
+          "article_number": 1,
+          "title": "Constitution as the fundamental law",
+          "file": "sections/part1/article1.json"
+        },
+        {
+          "article_number": 2,
+          "title": "Sovereignty and state authority",
+          "file": "sections/part1/article2.json"
+        },
+        {
+          "article_number": 3,
+          "title": "Nation",
+          "file": "sections/part1/article3.json"
+        },
+        {
+          "article_number": 4,
+          "title": "State of Nepal",
+          "file": "sections/part1/article4.json"
+        },
+        {
+          "article_number": 5,
+          "title": "National interest",
+          "file": "sections/part1/article5.json"
+        },
+        {
+          "article_number": 6,
+          "title": "Languages of the nation",
+          "file": "sections/part1/article6.json"
+        },
+        {
+          "article_number": 7,
+          "title": "Official language",
+          "file": "sections/part1/article7.json"
+        },
+        {
+          "article_number": 8,
+          "title": "National flag",
+          "file": "sections/part1/article8.json"
+        },
+        {
+          "article_number": 9,
+          "title": "National anthem",
+          "file": "sections/part1/article9.json"
+        }
+      ]
+    },
+    {
+      "part_number": 2,
+      "title": "Citizenship",
+      "sections": [
+        {
+          "article_number": 10,
+          "title": "Not to deprive of citizenship",
+          "file": "sections/part2/article10.json"
+        },
+        {
+          "article_number": 11,
+          "title": "To be citizens of Nepal",
+          "file": "sections/part2/article11.json"
+        },
+        {
+          "article_number": 12,
+          "title": "Citizenship with identity of descent and gender",
+          "file": "sections/part2/article12.json"
+        },
+        {
+          "article_number": 13,
+          "title": "Acquisition, reacquisition and termination of citizenship",
+          "file": "sections/part2/article13.json"
+        },
+        {
+          "article_number": 14,
+          "title": "Power to grant non-resident Nepalese citizenship",
+          "file": "sections/part2/article14.json"
+        },
+        {
+          "article_number": 15,
+          "title": "Other provisions relating to citizenship of Nepal",
+          "file": "sections/part2/article15.json"
+        }
+      ]
+    }
+  ]
 }
