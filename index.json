@@ -93,3 +93,95 @@
     }
   ]
 }
+{
+  "part_number": 3,
+  "title": "Fundamental Rights",
+  "articles": [
+    {
+      "article_number": 16,
+      "title": "Right to live with dignity",
+      "file": "articles/part3/article16.json"
+    },
+    {
+      "article_number": 17,
+      "title": "Right to freedom",
+      "file": "articles/part3/article17.json"
+    },
+    {
+      "article_number": 18,
+      "title": "Right to equality",
+      "file": "articles/part3/article18.json"
+    },
+    {
+      "article_number": 19,
+      "title": "Right to communication",
+      "file": "articles/part3/article19.json"
+    },
+    {
+      "article_number": 20,
+      "title": "Right to information",
+      "file": "articles/part3/article20.json"
+    },
+    {
+      "article_number": 21,
+      "title": "Right to privacy",
+      "file": "articles/part3/article21.json"
+    },
+    {
+      "article_number": 22,
+      "title": "Right to property",
+      "file": "articles/part3/article22.json"
+    },
+    {
+      "article_number": 23,
+      "title": "Right to religion",
+      "file": "articles/part3/article23.json"
+    },
+    {
+      "article_number": 24,
+      "title": "Right to education",
+      "file": "articles/part3/article24.json"
+    },
+    {
+      "article_number": 25,
+      "title": "Right to health",
+      "file": "articles/part3/article25.json"
+    },
+    {
+      "article_number": 26,
+      "title": "Right to social justice",
+      "file": "articles/part3/article26.json"
+    },
+    {
+      "article_number": 27,
+      "title": "Right to work",
+      "file": "articles/part3/article27.json"
+    },
+    {
+      "article_number": 28,
+      "title": "Right to food sovereignty",
+      "file": "articles/part3/article28.json"
+    },
+    {
+      "article_number": 29,
+      "title": "Right to clean environment",
+      "file": "articles/part3/article29.json"
+    },
+    {
+      "article_number": 30,
+      "title": "Right to information",
+      "file": "articles/part3/article30.json"
+    },
+    {
+      "article_number": 31,
+      "title": "Right to constitutional remedies",
+      "file": "articles/part3/article31.json"
+    },
+    {
+      "article_number": 32,
+      "title": "Restrictions on the exercise of fundamental rights",
+      "file": "articles/part3/article32.json"
+    }
+  ]
+}
+

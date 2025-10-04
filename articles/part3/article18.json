@@ -1,0 +1,17 @@
+  {
+    "article_number": 18,
+    "title": "Right to equality",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "All citizens shall be equal before the law."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "No person shall be denied the equal protection of the laws."
+      }
+    ],
+    "part_number": 3
+  }
