@@ -181,6 +181,21 @@
       "article_number": 32,
       "title": "Restrictions on the exercise of fundamental rights",
       "file": "articles/part3/article32.json"
+    },
+     {
+      "article_number": 33,
+      "title": "Right to employment",
+      "file": "articles/part3/article33.json"
+    },
+     {
+      "article_number": 34,
+      "title": "Right to labour",
+      "file": "articles/part3/article34.json"
+    },
+     {
+      "article_number": 35,
+      "title": "Right of Victim of Crime",
+      "file": "articles/part3/article35.json"
     }
   ]
 }
