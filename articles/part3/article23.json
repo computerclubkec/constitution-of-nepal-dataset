@@ -1,0 +1,17 @@
+ {
+    "article_number": 23,
+    "title": "Right to religion",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "Every person shall have the right to profess, practice and preserve his or her religion."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The State shall not discriminate against any religion."
+      }
+    ],
+    "part_number": 3
+  }

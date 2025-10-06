@@ -1,0 +1,17 @@
+ {
+    "article_number": 30,
+    "title": "Right to information",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "Every citizen shall have the right to demand and receive information on any matter of his or her concern."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The State shall, as provided by law, make arrangements to provide information to the citizens."
+      }
+    ],
+    "part_number": 3
+  }

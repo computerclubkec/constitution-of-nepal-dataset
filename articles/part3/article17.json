@@ -1,0 +1,17 @@
+ {
+    "article_number": 17,
+    "title": "Right to freedom",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "No person shall be deprived of his or her personal liberty, except in accordance with law."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "No person shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
+      }
+    ],
+    "part_number": 3
+  }

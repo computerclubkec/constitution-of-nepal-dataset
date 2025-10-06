@@ -1,0 +1,17 @@
+  {
+    "article_number": 27,
+    "title": "Right to work",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "Every citizen shall have the right to employment."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The State shall make arrangements to provide employment opportunities to all citizens."
+      }
+    ],
+    "part_number": 3
+  }

@@ -1,0 +1,17 @@
+  {
+    "article_number": 21,
+    "title": "Right to privacy",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "No person shall be subjected to arbitrary interference with his or her privacy, family, home or correspondence."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The privacy of correspondence shall be inviolable."
+      }
+    ],
+    "part_number": 3
+  }

@@ -1,0 +1,17 @@
+  {
+    "article_number": 22,
+    "title": "Right to property",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "No person shall be deprived of his or her property except in accordance with law."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The State may, in the public interest, acquire any property by following due process of law."
+      }
+    ],
+    "part_number": 3
+  }

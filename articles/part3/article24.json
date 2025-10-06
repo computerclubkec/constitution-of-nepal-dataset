@@ -1,0 +1,17 @@
+{
+    "article_number": 24,
+    "title": "Right to education",
+    "content": [
+      {
+        "type": "clause",
+        "clause_number": 1,
+        "text": "Every citizen shall have the right to free education up to the secondary level."
+      },
+      {
+        "type": "clause",
+        "clause_number": 2,
+        "text": "The State shall make necessary arrangements to provide education to all citizens."
+      }
+    ],
+    "part_number": 3
+  }
