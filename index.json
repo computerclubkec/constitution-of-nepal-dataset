@@ -196,6 +196,70 @@
       "article_number": 35,
       "title": "Right of Victim of Crime",
       "file": "articles/part3/article35.json"
+    },
+    {
+      "article_number": 36,
+      "title": "Right relating to food",
+      "file": "articles/part3/article36.json"
+    },
+    {
+      "article_number": 37,
+      "title": "Right to housing",
+      "file": "articles/part3/article37.json"
+    },
+    {
+      "article_number": 38,
+      "title": "Right of women",
+      "file": "articles/part3/article38.json"
+    },
+    {
+      "article_number": 39,
+      "title": "Right of the child",
+      "file": "articles/part3/article39.json"
+    },
+    {
+      "article_number": 40,
+      "title": "Right of Dalit",
+      "file": "articles/part3/article40.json"
+    },
+    {
+      "article_number": 41,
+      "title": "Right of Senior citizen",
+      "file": "articles/part3/article41.json"
+    },
+    {
+      "article_number": 42,
+      "title": "Right to social justice",
+      "file": "articles/part3/article42.json"
+    },
+    {
+      "article_number": 43,
+      "title": "Right to social security",
+      "file": "articles/part3/article43.json"
+    },
+    {
+      "article_number": 44,
+      "title": "Right of the consumer",
+      "file": "articles/part3/article44.json"
+    },
+    {
+      "article_number": 45,
+      "title": "Right against exile",
+      "file": "articles/part3/article45.json"
+    },{
+      "article_number": 46,
+      "title": " Right to constitutional remedies",
+      "file": "articles/part3/article46.json"
+    },
+    {
+      "article_number": 47,
+      "title": "Implementation of fundamental rights",
+      "file": "articles/part3/article47.json"
+    },
+    {
+      "article_number": 48,
+      "title": "Duties of citizens",
+      "file": "articles/part3/article48.json"
     }
   ]
 }
