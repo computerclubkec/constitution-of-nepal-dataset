@@ -263,4 +263,20 @@
     }
   ]
 }
+{
+  "part_number": 4,
+  "title": "Directive Principles, Policies and Obligations of the State",
+  "articles": [
+    {
+      "article_number": 49,
+      "title": "Right to live with dignity",
+      "file": "articles/part4/article49.json"
+    },
+       {
+      "article_number": 50,
+      "title": "Right to live with dignity",
+      "file": "articles/part4/article50.json"
+    },
+      ]
+}
 
