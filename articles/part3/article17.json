@@ -1,17 +1,121 @@
- {
-    "article_number": 17,
-    "title": "Right to freedom",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "No person shall be deprived of his or her personal liberty, except in accordance with law."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "No person shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 17,
+  "title": "Right to freedom",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "No person shall be deprived of his or her personal liberty except in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every citizen shall have the following freedoms:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "freedom of opinion and expression,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "freedom to assemble peaceably and without arms,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "freedom to form political parties,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "freedom to form unions and associations,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "freedom to move and reside in any part of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "freedom to practice any profession, carry on any occupation, and establish and operate any industry, trade and business in any part of Nepal. Provided that:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "shall be deemed to prevent the making of an Act to impose reasonable restrictions on any act which may undermine the sovereignty, territorial integrity, nationality and independence of Nepal or the harmonious relations between the Federal Units or the people of various castes, tribes, religions or communities or incite caste-based discrimination or untouchability or on any act of disrespect of labour, defamation, contempt of court, incitement to an offence or on any act which may be contrary to public decency or morality."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "shall be deemed to prevent the making of an Act to impose reasonable restrictions on any act which may undermine the sovereignty, territorial integrity, nationality and independence of Nepal or the harmonious relations between the Federal Units or public peace and order."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "shall be deemed to prevent the making of an Act to impose reasonable restrictions on any act which may undermine the sovereignty, territorial integrity, nationality and independence of Nepal, constitute an espionage against the nation or divulge national secrecy or on any act of rendering assistance to any foreign state, organization or representative in a manner to undermine the security of Nepal or on an act of sedition or on any act which may undermine the harmonious relations between the Federal Units or on any act of incitement to caste-based or communal hatred or on any act which may undermine the harmonious relations between various castes, tribes, religions and communities, or on any act of acquisition of, or restriction on, membership of any political party on the basis solely of tribe, language, religion, community or sex or on any act of formation of a political party with discrimination between citizens or on incitement to violent acts or on any act which may be contrary to public morality."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "shall be deemed to prevent the making of an Act to impose reasonable restrictions on any act which may undermine the sovereignty, territorial integrity, nationality and independence of Nepal, or on any act which may constitute espionage against the nation or on any act of divulgence of national secrecy or on any act assisting any foreign state, organization or representative in a manner to undermine the security of Nepal or on an act of sedition or on any act which may undermine the harmonious relations between the Federal Units or on any act of incitement to caste-based or communal hatred or on any act which may undermine the harmonious relations between various castes, tribes, religions and communities or on incitement to violent acts or on any act which may be contrary to public morality."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "shall be deemed to prevent the making of an Act to impose reasonable restrictions on any act which may undermine the interest of the general public or which may undermine the harmonious relations between the Federal Units or the harmonious relations between the peoples of various castes, tribes, religions or communities or which may constitute or incite violent acts."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "Nothing in sub-clause",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "shall be deemed to prevent the making of an Act to prevent any act which may undermine the harmonious relations between the Federal Units or any act which may be contrary to public health, decency or morality of the general public or to confer on the State the exclusive right to undertake any specific industry, trade or service, or to prescribe any condition or qualification for carrying on any industry, trade, occupation, employment or business."
+        }
+      ]
+    }
+  ],
+  "part_number": 3
+}

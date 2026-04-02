@@ -1,0 +1,27 @@
+{
+  "article_number": 128,
+  "title": "Supreme Court",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a Supreme Court in Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Supreme Court shall be a court of record. All courts and judicial bodies shall, except as otherwise provided in this Constitution, be under the Supreme Court. The Supreme Court shall have the final authority to interpret this Constitution and laws."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The Supreme Court may inspect, supervise and give necessary directives to, it and courts, specialized courts or other judicial bodies under its jurisdiction, in relation to matters relating to judicial administration or management."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "All must abide by any interpretation of the Constitution or a law made by or any legal principle laid down by the Supreme Court in the course of trying a lawsuit. If anyone makes obstruction in the dispensation of justice by, or disregard any order or judgment handed down by, it or any of its subordinate courts, the Supreme Court may, in accordance with law, initiate proceedings and impose punishment for contempt."
+    }
+  ],
+  "part_number": 11
+}

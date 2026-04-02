@@ -1,0 +1,74 @@
+{
+  "article_number": 110,
+  "title": "Procedures for introduction of Bills",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill may, subject to this Constitution, be introduced in any House of the Federal Parliament. Provided that a Money Bill shall be introduced only in the House of Representatives."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Money Bill and a Bill concerning a security body including the Nepal Army, Nepal Police and Armed Police Force, Nepal shall be introduced only as a Government Bill."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "\"Money Bill\" means a Bill concerning any or all of the following subjects:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "the imposition, collection, abolition, remission, alteration or regulation of taxes,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "the preservation of the Federal Consolidated Fund or any other Federal Government Fund, the deposit of moneys into and the appropriation or the withdrawal of moneys from such Funds, or the reduction, increment or cancellation of appropriations or of proposed expenditures from such Funds,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "the regulation of matters relating to the borrowing of money or the giving of guarantee by the Government of Nepal, or any matter pertaining to the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "the custody and investment of all revenues received by any Federal Government Fund, moneys acquired through the repayment of loans, and grant moneys, or accounts or audits of the accounts of the Government of Nepal, or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "Other matters directly related to any of the subjects specified in clause"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": ","
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": ","
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": ". Provided that any Bill shall not be deemed to be a Money Bill by the reason only that it provides for the levying of any charges and fees such as license fee, application fee, renewal fee or for the imposition of fines or penalty of imprisonment."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker thereon shall be final."
+    }
+  ],
+  "part_number": 9
+}

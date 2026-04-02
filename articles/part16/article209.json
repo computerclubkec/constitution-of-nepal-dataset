@@ -1,0 +1,29 @@
+{
+  "article_number": 209,
+  "title": "Supplementary estimates",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The State Minister for Finance may lay before the State Assembly a supplementary estimate if it is found in any financial year,-",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "that the sum authorized to be spent for a particular service by the State Appropriation Act for the current financial year is insufficient, or that a need has arisen for expenditures upon some new service not provided for in the State Appropriation Act for that year, or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "that the expenditures made during that financial year are in excess of the amount authorized by the State Appropriation Act."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The sums included in the supplementary estimates shall be specified under the heads in a Supplementary Appropriation Bill."
+    }
+  ],
+  "part_number": 16
+}

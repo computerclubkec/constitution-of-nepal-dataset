@@ -1,12 +1,22 @@
-  {
-    "article_number": 32,
-    "title": "Restrictions on the exercise of fundamental rights",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Nothing in this Part shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the nationality, sovereignty, independence and integrity of Nepal, or which may jeopardize the harmonious relations subsisting among the federal units or peoples of various castes, tribes, religions or communities, or on inciting ethnic discrimination or untouchability or on any act of defamation, contempt of court or incitement to an offence, or on any act which may be contrary to public decency or morality."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 32,
+  "title": "Right to language and culture",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every person and community shall have the right to use their languages."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every person and community shall have the right to participate in the cultural life of their communities."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Every Nepalese community residing in Nepal shall have the right to preserve and promote its language, script, culture, cultural civilization and heritage."
+    }
+  ],
+  "part_number": 3
+}

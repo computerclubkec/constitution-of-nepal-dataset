@@ -1,0 +1,22 @@
+{
+  "article_number": 139,
+  "title": "High Courts",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a High Court in each State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "If anyone makes obstruction in the dispensation of justice by, or disregard any order or judgment handed down by, it or any of its subordinate courts or judicial bodies, the High Court may initiate proceedings on and impose punishment for contempt, as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Each High Court shall consist of such number of Judges, in addition to the Chief Judge, as provided for in the Federal law."
+    }
+  ],
+  "part_number": 11
+}

@@ -1,0 +1,64 @@
+{
+  "article_number": 284,
+  "title": "Provisions relating to Constitutional Council",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a Constitutional Council for making recommendations for appointment of the Chief Justice and Chiefs and officials of the Constitutional Bodies in accordance with this Constitution, which shall consist of the following as the Chairperson and members:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "The Prime Minister -Chairperson"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "The Chief Justice -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "The Speaker of the House of Representatives -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "The Chairperson of the National Assembly -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "Leader of Opposition Party in the House of Representatives -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "Deputy Speaker of the House of Representatives -Member"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "While making a recommendation for appointment to the office of the Chief Justice, the Constitutional Council shall include the Minister for Law and Justice of the Government of Nepal, as its member."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The Constitutional Council must make a recommendation for appointment under this Constitution before one month of the vacation of the office of the Chief Justice or a chief or official of a Constitutional Body. Provided that if such office falls vacant because of death or resignation, it may so make recommendation for appointment that the office is fulfilled within one month after the date of vacancy."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Other functions, duties and powers of the Constitutional Council and rules of procedures on the appointment of the Chief Justice or chiefs or officials of Constitutional Bodies shall be as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The Chief Secretary of the Government of Nepal shall act as the secretary of the Constitutional Council."
+    }
+  ],
+  "part_number": 32
+}

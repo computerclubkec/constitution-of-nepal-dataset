@@ -1,0 +1,64 @@
+{
+  "article_number": 92,
+  "title": "Chairperson and Vice-Chairperson of National Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The members of the National Assembly shall, not later than fifteen days of the date of holding of its first meeting, elect the Chairperson and the Vice-Chairperson of the National Assembly from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Election under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall be so held that there is one woman out of the Chairperson and the Vice-Chairperson of the National Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If the office of the Chairperson or Vice-Chairperson of the National Assembly falls vacant, the members of the National Assembly shall fill the vacancy by electing its Chairperson or Vice-Chairperson from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The Vice-Chairperson of the National Assembly shall, in the absence of its Chairperson, chair the National Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "If the election to the Chairperson and the Vice-Chairperson of the National Assembly is not held or if both the positions becomes vacant, the member who is by age the senior-most out of the attending members shall chair the meeting of the National Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The office of the Chairperson or Vice-Chairperson of the National Assembly shall become vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she ceases to be a member of the National Assembly,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she tenders resignation in writing,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if a resolution is passed by a majority of two-thirds of the total number of the then members of the National Assembly that his or her conduct is not compatible with his or her office."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The Vice-Chairperson of the National Assembly shall chair a meeting at which deliberations are to be held on a resolution that the conduct of the Chairperson of the National Assembly is not compatible with his or her office. The Chairperson of the National Assembly may take part and vote in the deliberations on such resolution."
+    }
+  ],
+  "part_number": 8
+}

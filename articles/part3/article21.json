@@ -1,17 +1,17 @@
-  {
-    "article_number": 21,
-    "title": "Right to privacy",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "No person shall be subjected to arbitrary interference with his or her privacy, family, home or correspondence."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "The privacy of correspondence shall be inviolable."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 21,
+  "title": "Right of victim of crime",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A victim of crime shall have the right to get information about the investigation and proceedings of a case in which he or she is the victim."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A victim of crime shall have the right to justice including social rehabilitation and compensation in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

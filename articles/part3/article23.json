@@ -1,17 +1,27 @@
- {
-    "article_number": 23,
-    "title": "Right to religion",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every person shall have the right to profess, practice and preserve his or her religion."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "The State shall not discriminate against any religion."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 23,
+  "title": "Right against preventive detention",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "No person shall be held under preventive detention unless there is a sufficient ground of the existence of an immediate threat to the sovereignty, territorial integrity or public peace and order of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Information about the situation of a person who is held under preventive detention pursuant to clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "must be given immediately to his or her family members or relatives. Provided that this clause shall not apply to a citizen of an enemy state."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If the authority making preventive detention holds any person under preventive detention contrary to law or in bad faith, the person held under preventive detention shall have the right to obtain compensation in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

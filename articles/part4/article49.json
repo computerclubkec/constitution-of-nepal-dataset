@@ -1,12 +1,17 @@
 {
-    "article_number": 49,
-    "title": "To be guiding principles",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "The directive principles, policies and obligations set forth in this Part shall be the guiding principles for the governance of the State."
-      }
-    ],
-    "part_number": 4
+  "article_number": 49,
+  "title": "To be guiding principles",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The directive principles, policies and obligations set forth in this Part shall be the guiding principles for the governance of the State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The State shall mobilize, or cause to be mobilized, means and resources, as required, to implement the principles, policies and obligations set forth in this Part."
+    }
+  ],
+  "part_number": 4
 }

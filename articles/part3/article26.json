@@ -1,17 +1,22 @@
 {
-    "article_number": 26,
-    "title": "Right to social justice",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "The State shall make special provisions for the protection, empowerment and advancement of women, children, Dalits, indigenous nationalities, backward classes, minorities, and marginalized communities."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "The State shall also make provisions for the protection and promotion of the rights of persons with disabilities."
-      }
-    ],
-    "part_number": 3
-  }
+  "article_number": 26,
+  "title": "Right to freedom of religion",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every person who has faith in religion shall have the freedom to profess, practice and protect his or her religion according to his or her conviction."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every religious denomination shall have the right to operate and protect its religious sites and religious Guthi (trusts). Provided that nothing shall be deemed to prevent the regulation, by making law, of the operation and protection of religious sites and religious trusts and management of trust properties and lands."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "No person shall, in the exercise of the right conferred by this Article, do, or cause to be done, any act which may be contrary to public health, decency and morality or breach public peace, or convert another person from one religion to another or any act or conduct that may jeopardize other's religion."
+    }
+  ],
+  "part_number": 3
+}

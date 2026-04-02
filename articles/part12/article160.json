@@ -1,0 +1,59 @@
+{
+  "article_number": 160,
+  "title": "Chief Attorney",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a Chief Attorney in every State, who shall be subordinate to the Attorney General."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Chief of State shall, on recommendation of the concerned Chief Minister, appoint the Chief Attorney. The Chief Attorney shall hold office during the pleasure of the Chief Minister."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "A person who is qualified to be appointed as a Judge of High Court shall be eligible to be appointed as the Chief Attorney."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The office of the Chief Attorney shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the Chief of State through the Chief Minister,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she is removed from office by the Chief of State on recommendation of the Chief Minister,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The Chief Attorney shall be the chief legal advisor to the State Government. It shall be the duty of the Chief Attorney to give opinions and advices on constitutional and legal matters to the State Government and such other authorities as the State Government may specify."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The Office of Attorney General shall manage the employees under the Office of Chief Attorney."
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The remuneration and other facilities of the Chief Attorney shall be similar to those of a Judge of High Court. The functions, duties and powers and other conditions of service of the Chief Attorney shall be as provided for in the State law."
+    }
+  ],
+  "part_number": 12
+}

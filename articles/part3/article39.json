@@ -1,13 +1,77 @@
-
-      {
-    "article_number": 39,
-    "title": " Rights of child",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": " child shall have the right to name and birth registration along with his or her identity."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 39,
+  "title": "Rights of the child",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every child shall have the right to name and birth registration along with his or her identity."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every child shall have the right to education, health, maintenance, proper care, sports, entertainment and overall personality development from the families and the State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Every child shall have the right to elementary child development and child participation."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "No child shall be employed to work in any factory, mine or engaged in similar other hazardous work."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "No child shall be subjected to child marriage, transported illegally, abducted/kidnapped or taken in hostage."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "No child shall be recruited or used in army, police or any armed group, or be subjected, in the name of cultural or religious traditions, to abuse, exclusion or physical, mental, sexual or other form of exploitation or improper use by any means or in any manner."
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "No child shall be subjected to physical, mental or any other form of torture in home, school or other place and situation whatsoever."
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "Every child shall have the right to juvenile friendly justice."
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "The child who is helpless, orphan, with disabilities, conflict victim, displaced or vulnerable shall have the right to special protection and facilities from the State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 10,
+      "text": "Any act contrary to in clauses"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": ","
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": ","
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "and"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "shall be punishable by law, and a child who is the victim of such act shall have the right to obtain compensation from the perpetrator, in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

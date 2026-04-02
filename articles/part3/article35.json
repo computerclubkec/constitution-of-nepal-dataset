@@ -1,12 +1,27 @@
- {
-    "article_number": 35,
-    "title": "Right relating to health",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every person shall have the right to get information about his or addher medical treatment."
-      }
-    ],
-    "part_number": 3
+{
+  "article_number": 35,
+  "title": "Right relating to health",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every citizen shall have the right to free basic health services from the State, and no one shall be deprived of emergency health services."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every person shall have the right to get information about his or her medical treatment."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Every citizen shall have equal access to health services."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Every citizen shall have the right of access to clean drinking water and sanitation."
+    }
+  ],
+  "part_number": 3
 }

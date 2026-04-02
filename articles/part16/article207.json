@@ -1,0 +1,39 @@
+{
+  "article_number": 207,
+  "title": "Estimates of revenues and expenditures",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The State Minister for Finance shall, in respect of every financial year, lay before the State Assembly an annual estimate setting out, inter alia, the following matters:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "an estimate of revenues,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "the moneys required to meet the charges on the State Consolidated Fund, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "the moneys required to meet the expenditure to be provided for by a State Appropriation Act."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The annual estimate to be laid pursuant to clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall also be accompanied by a statement of the expenses allocated to every Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved."
+    }
+  ],
+  "part_number": 16
+}

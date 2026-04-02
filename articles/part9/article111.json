@@ -1,0 +1,89 @@
+{
+  "article_number": 111,
+  "title": "Procedures for passage of Bills",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill passed by one House of the Federal Parliament shall be transmitted to the other House as soon as possible and such Bill, if passed by the receiving House, shall be presented to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Money Bill passed by the House of Representatives shall be transmitted to the National Assembly. The National Assembly shall, after deliberations on such Bill, send back the Bill to the House of Representatives within fifteen days from the date of receipt of the Bill, with suggestions, if any."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The House of Representatives shall, upon deliberations on a Bill returned with suggestions under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": ", present the Bill incorporating such suggestions as it may deem appropriate to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If the National Assembly does not return a Money Bill received under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "for more than fifteen days, the House of Representatives may present the Bill to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Any Bill, except for a Money Bill, passed by the House of Representatives and transmitted to the National Assembly shall be returned with approval or suggestions within two months from the date of receipt. If the National Assembly does not return the Bill within that period, the House of Representatives may, by a resolution passed by a majority of the total number of its existing members, present the Bill to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "If any Bill, other than a Money Bill, passed by one House is rejected or is passed with amendments by the other House, the Bill shall be returned to the House where it originated."
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "If the House of Representatives, in considering a Bill which has been rejected or amended by the National Assembly under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": ", passes it again as it was or with amendments, by a majority of the total number of its existing members, the Bill shall be presented to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "If a Bill which has been returned with amendments by the House of Representatives to the National Assembly under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "is also again passed, with such amendments, by a majority of the number of existing members of the National Assembly, the Bill shall be presented to the President for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "The following Bills shall be referred to a joint sitting of the both Houses, and if the joint sitting passes the Bill as it was or with amendments, the House in which the Bill originated shall present it to the President for assent:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "Bills which, though passed by the National Assembly, have been rejected by the House of Representatives, or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Bills which have been returned to the National Assembly with amendments by the House of Representatives, but the National Assembly has not agreed on such amendments."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 10,
+      "text": "Even though the session of a House is prorogued while a Bill is under its consideration, deliberations on the Bill may continue at the succeeding session. Provided that if the House of Representatives is dissolved or its term expires when any Bill introduced in the House of Representatives is under its consideration or when any Bill passed by the House of Representatives is under consideration in the National Assembly, such Bill shall lapse."
+    }
+  ],
+  "part_number": 9
+}

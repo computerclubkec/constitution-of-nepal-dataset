@@ -1,0 +1,49 @@
+{
+  "article_number": 234,
+  "title": "Inter-State Council",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be an Inter-State Council as follows to settle political disputes arising between the Federation and a State and between States:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "Prime Minister - Chairperson"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Minister for Home Affairs of the Government of Nepal - Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "Minister for Finance of the Government of Nepal - Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "Chief Ministers of the concerned States - Member"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Inter-State Council may meet as required."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The Inter-State Council may invite to its meeting a Minister of the Government of Nepal and a Minister of the concerned State who is responsible for the matter of dispute and a concerned expert."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The rules of procedures of the meeting of the Inter-State Council shall be as determined by the Council itself."
+    }
+  ],
+  "part_number": 20
+}

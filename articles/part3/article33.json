@@ -1,12 +1,17 @@
 {
-    "article_number": 33,
-    "title": "Right to employment",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every citizen shall have the right to employment. "
-      }
-    ],
-    "part_number": 3
+  "article_number": 33,
+  "title": "Right to employment",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every citizen shall have the right to employment. The terms and conditions of employment, and unemployment benefit shall be as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every citizen shall have the right to choose employment."
+    }
+  ],
+  "part_number": 3
 }

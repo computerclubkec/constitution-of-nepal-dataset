@@ -1,0 +1,22 @@
+{
+  "article_number": 231,
+  "title": "Legislative interrelations between Federation and States",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The Federal Law may be made to be applicable to the whole of, or, if required, to any part of, the territory of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A State law may be made to be applicable to the whole of, or as required, to any part of the territory of the State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If two or more States make a request to the Government of Nepal to make laws on any matter enumerated in Schedule-6, the Federal Parliament may make necessary laws. Such laws shall be applicable only to the concerned States."
+    }
+  ],
+  "part_number": 20
+}

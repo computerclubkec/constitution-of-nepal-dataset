@@ -1,0 +1,106 @@
+{
+  "article_number": 245,
+  "title": "Election Commission",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be an Election Commission of Nepal, consisting of a Chief Commissioner and four other Commissioners. The Chief Commissioner shall act as the chairperson of the Election Commission."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The President shall, on the recommendation of the Constitutional Council, appoint the Chief Election Commissioner and Commissioners."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The term of office of the Chief Election Commissioner and Commissioners of the Election Commission shall be six years from the date of appointment."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Notwithstanding anything contained in clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": ", the office of the Chief Election Commissioner or Election Commissioner shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the President,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she attains the age of sixty-five years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if a motion of impeachment is passed against him or her under Article 101,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The Chief Election Commissioner and Commissioners appointed under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "shall not be eligible for reappointment. Provided that a Commissioner may be appointed to the office of Chief Election Commissioner, and when a Commissioner is so appointed as the Chief Election Commissioner, his or her term of office shall be so computed as to include his or her term as the Commissioner."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "A person shall be eligible to be appointed as the Chief Election Commissioner or an Election Commissioner if he or she possesses the following qualification:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "holding a bachelor's degree from a recognized university,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "not being a member of any political party at the time of appointment,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "having attained the age of forty five years, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "being of high moral character."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The remuneration and other conditions of service of the Chief Election Commissioner and Election Commissioners shall be as provided for in the Federal law. The remuneration and conditions of service of the Chief Election Commissioner and the Commissioners shall not, so long as they hold office, be altered to their disadvantage. Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "A person once appointed as the Chief Election Commissioner and a Commissioner of the Election Commission shall not be eligible for appointment in other government service. Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+    }
+  ],
+  "part_number": 24
+}

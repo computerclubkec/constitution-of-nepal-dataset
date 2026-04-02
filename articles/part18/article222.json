@@ -1,0 +1,79 @@
+{
+  "article_number": 222,
+  "title": "Composition of Village Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Each Village Body shall have a Village Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Village Assembly under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall consist of the Chairperson and Vice-Chairperson of the Village Executive, Ward Chairpersons, and four members elected from each ward and Members of the Village Executive elected from Dalit and minority communities pursuant to clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "of Article 215."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "A Village Assembly to be formed under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall have representation of at least two women from each ward."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Each ward of a Village Body under the Federal law shall have a Ward Committee composed of the Ward Chairperson and four members. Such Ward Chairperson and Ward members shall be elected in accordance with the first past the post electoral system."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Every person who has completed the age of eighteen years and whose name is included in the electoral rolls of the Village Body shall have a right to vote as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "A person who has the following qualification shall be qualified to become a candidate for the office of the Member of the Village Assembly:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "being a citizen of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "having completed the age of twenty one years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "being his or her name included in the electoral rolls of the Village Body, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "not being disqualified by any law."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "Matters relating to the election to the Village Assembly and other matters pertaining thereto shall be as provided for in the Federal law."
+    }
+  ],
+  "part_number": 18
+}

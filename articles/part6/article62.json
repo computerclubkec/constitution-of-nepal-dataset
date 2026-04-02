@@ -1,0 +1,62 @@
+{
+  "article_number": 62,
+  "title": "Election of President",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The President shall be elected by an electoral college composed of the members of the Federal Parliament and of the State Assemblies. The voting weightage of the members of the Federal Parliament and of the State Assemblies shall vary as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Notwithstanding anything contained in clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ", nothing shall be deemed to bar the formation of an electoral college for the purpose of election to the President by the sole reason that election to the State Assembly has not been held in any State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "A person who secures a majority of the then existing total votes of the electoral college under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall be elected as the President."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If none of the candidates secures a majority under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": ", there shall be voting between the two candidates who have secured the highest number of votes, and a candidate who secures more than fifty percent of the total votes in such a voting shall be elected as the President."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "If none of the candidates secures more than fifty percent of the total votes even in the voting under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": ", re-voting shall be held. A candidate who secures a majority of the total valid votes cast in such voting shall be elected as the President."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "If a person who holds a political office to be filled by way of election, nomination or appointment is appointed as the President under this Article, his or her such office shall ipso facto be vacant."
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "Election to the President and other matters related thereto shall be as provided for in the Federal law."
+    }
+  ],
+  "part_number": 6
+}

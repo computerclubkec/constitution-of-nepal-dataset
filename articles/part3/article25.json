@@ -1,17 +1,52 @@
 {
-    "article_number": 25,
-    "title": "Right to health",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every citizen shall have the right to access basic health services."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "The State shall make necessary arrangements to provide health services to all citizens."
-      }
-    ],
-    "part_number": 3
-  }
+  "article_number": 25,
+  "title": "Right relating to property",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every citizen shall, subject to law, have the right to acquire, own, sell, dispose, acquire business profits from, and otherwise deal with, property. Provided that the State may levy tax on property of a person, and tax on income of a person in accordance with the concept of progressive taxation. Explanation: For the purposes of this Article, \"property\" means any form of property including movable and immovable property, and includes an intellectual property right."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The State shall not, except for public interest, requisition, acquire, or otherwise create any encumbrance on, property of a person. Provided that this clause shall not apply to any property acquired by any person illicitly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The basis of compensation to be provided and procedures to be followed in the requisition by the State of property of any person for public interest in accordance with clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "shall be as provided for in the Act."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The provisions of clauses"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "and"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "shall not prevent the State from making land reforms, management and regulation in accordance with law for the purposes of enhancement of product and productivity of lands, modernization and commercialization of agriculture, environment protection and planned housing and urban development."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Nothing shall prevent the State from using the property of any person, which it has requisitioned for public interest in accordance with clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": ", for any other public interest instead of such public interest."
+    }
+  ],
+  "part_number": 3
+}

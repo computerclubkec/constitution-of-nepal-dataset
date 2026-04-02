@@ -1,0 +1,32 @@
+{
+  "article_number": 113,
+  "title": "Assent on Bills",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill which is to be submitted to the President for assent under Article 111 shall be so submitted by the Speaker or the Chairperson of the House in which the Bill originated after it has been certified by him or her. Provided that in the case of a Money Bill, the Speaker shall so certify."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Bill submitted to the President for his or her assent in accordance with this Article shall be assented to within fifteen days, both Houses shall be informed thereof as soon as possible."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If the President is of the opinion that any Bill, except a Money Bill, submitted for assent needs reconsideration, he or she may, within fifty days from the date of presentation of such Bill, return the Bill with his or her message to the House in which the Bill originated."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If any Bill is returned with a message by the President, and both Houses reconsider, passes such Bill as it was or with amendments and submit it again, the President shall give assent to that Bill within fifteen days of such submission."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "A Bill shall become an Act after the President gives assent to it."
+    }
+  ],
+  "part_number": 9
+}

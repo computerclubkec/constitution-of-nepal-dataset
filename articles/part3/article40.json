@@ -1,12 +1,42 @@
-  {
-    "article_number": 40,
-    "title": "Rights of Dalit",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Special provision shall be made by law in order to provide health and social security to the Dalit community"
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 40,
+  "title": "Rights of Dalit",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The Dalit shall have the right to participate in all bodies of the State on the basis of the principle of proportional inclusion. Special provision shall be made by law for the empowerment, representation and participation of the Dalit community in public services as well as other sectors of employment."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Provision of free education with scholarship, from primary to higher education, shall be made by law for the Dalit students. Special provision shall be made by law for the Dalit in technical and vocational education."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Special provision shall be made by law in order to provide health and social security to the Dalit community."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The Dalit community shall have the right to use, protect and develop their traditional occupation, knowledge, skill and technology. The State shall accord priority to the Dalit community in modern business related with their traditional occupation and provide skills and resources required therefor."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The State shall once provide land to the landless Dalit in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The State shall, in accordance with law, arrange settlement for the Dalit who do not have housing."
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The facilities conferred by this Article to the Dalit community must be distributed in a just manner so that the Dalit women, men and Dalit in all communities can obtain such facilities proportionately."
+    }
+  ],
+  "part_number": 3
+}

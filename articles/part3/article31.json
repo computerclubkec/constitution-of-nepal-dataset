@@ -1,12 +1,32 @@
- {
-    "article_number": 31,
-    "title": "Right to constitutional remedies",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "The right to proceed in accordance with Article 71, for the enforcement of the rights conferred by this Part, is guaranteed."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 31,
+  "title": "Right relating to education",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every citizen shall have the right of access to basic education."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every citizen shall have the right to get compulsory and free education up to the basic level and free education up to the secondary level from the State."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The citizens with disabilities and the economically indigent citizens shall have the right to get free higher education in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The visually impaired citizens shall have the right to get free education through brail script and the citizens with hearing or speaking impairment, to get free education through sign language, in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Every Nepalese community residing in Nepal shall have the right to get education in its mother tongue and, for that purpose, to open and operate schools and educational institutes, in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

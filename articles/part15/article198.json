@@ -1,0 +1,74 @@
+{
+  "article_number": 198,
+  "title": "Procedures for introduction of Bills in State Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill may, subject to this Constitution, be introduced in the State Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Money Bill and a Bill concerning peace and security may be introduced only as a Government Bill."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "\"Money Bill\" means a Bill concerning any or all of the following subjects:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "the imposition, collection, abolition, remission, alteration or regulation of taxes in the State,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "the preservation of the State Consolidated Fund or any other State Government Fund, the deposit of moneys into and the appropriation or the withdrawal of moneys from such Funds, or the reduction, increment or cancellation of appropriations or of proposed expenditures from such Funds,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "the regulation of matters relating to the borrowing of money or the giving of guarantee by the State Government, or any matter pertaining to the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the State Government,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "the custody and investment of all revenues received by any State Government Fund, moneys acquired through the repayment of loans, and grant moneys; or audits of the accounts of the State Government, or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "other incidental matters directly related to any of the subjects specified in clause"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": ","
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": ","
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": ". Provided that any Bill shall not be deemed to be a Money Bill by the reason only that it provides for the levying of any charges or fees such as license fee, application fee, renewal fee or for the imposition of fines or penalty of imprisonment."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of State Assembly thereon shall be final."
+    }
+  ],
+  "part_number": 15
+}

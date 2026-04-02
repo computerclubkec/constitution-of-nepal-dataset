@@ -1,0 +1,64 @@
+{
+  "article_number": 142,
+  "title": "Vacation of office of Chief Judge or Judge",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The office of Chief Judge or Judge of a High Court shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing before the Chief Justice,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she attains the age of sixty-three years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council, on the ground of his or her incompetence, bad conduct, failure to perform his or her duties honestly, performance of business with mala fide intention or serious violation by him or her of the code of conduct required to be observed by him or her,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council on the ground that he or she is unable to discharge his or her duties because of physical or mental illness,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "if he or she is punished by a court for a criminal offence involving moral turpitude,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Judge who is facing a charge shall be provided with a reasonable opportunity to defend himself or herself prior to removing him or her from the office under sub-clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "of clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ". The Judge against whom the proceedings have been so instituted shall not be allowed to perform the duties of his or her office until the proceedings are completed."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Nothing shall bar the institution of action in accordance with the Federal law against the Chief Judge or Judge who has been removed from office for an offence which he or she has committed while in office."
+    }
+  ],
+  "part_number": 11
+}

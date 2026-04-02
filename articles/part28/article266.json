@@ -1,0 +1,64 @@
+{
+  "article_number": 266,
+  "title": "National Security Council",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a National Security Council for making recommendation to the Government of Nepal, Council of Ministers for the formulation of a policy on overall national interest, security and defence of Nepal, and for the mobilization and control of the Nepal Army, which shall consist of the following as the Chairperson and members:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "The Prime Minister -Chairperson"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Minister for Defence, Government of Nepal -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "Minister for Home, Government of Nepal -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "Minister for Foreign Affairs, Government of Nepal -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "Minister for Finance, Government of Nepal -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "Chief Secretary of Government of Nepal -Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "g",
+          "text": "Commander-in-Chief, Nepal Army -Member"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The secretary at the Ministry of Defence shall act as the member secretary of the National Security Council."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The National Security Council shall submit its annual report to the President, and the President shall cause the report to be laid through the Prime Minister before the Federal Parliament."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Other matters relating to the National Security Council shall be as provided by the Federal law."
+    }
+  ],
+  "part_number": 28
+}

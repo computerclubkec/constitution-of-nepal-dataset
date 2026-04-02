@@ -1,0 +1,37 @@
+{
+  "article_number": 201,
+  "title": "Assent on Bills",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill which is to be presented to the Chief of State for assent under Article 199 shall be so presented by the Speaker of State Assembly after it has been certified by him or her. Provided that in the case of a Money Bill, the Speaker of State Assembly shall so certify."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Bill presented to the Chief of State for his or her assent shall be assented to within fifteen days, and the State Assembly shall be informed thereof as soon as possible."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Except for a Money Bill, if the Chief of State is of the opinion that any Bill needs further deliberations, he or she may send back the Bill with his or her message to the State Assembly within fifteen days from the date of presentation of the Bill to him or her."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "If any Bill is sent back with his or her message by the Chief of State under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": ", it shall be reconsidered by the State Assembly and if the Bill so reconsidered is again passed as it was or with amendments, and is again presented to him or her, the Chief of State shall give assent to that Bill within fifteen days of such presentation."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "A Bill shall become an Act after the Chief of State gives assent to it."
+    }
+  ],
+  "part_number": 15
+}

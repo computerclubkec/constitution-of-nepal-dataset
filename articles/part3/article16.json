@@ -1,12 +1,17 @@
 {
-    "article_number": 16,
-    "title": "Right to live with dignity",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every person shall have the right to live with dignity."
-      }
-    ],
-    "part_number": 3
+  "article_number": 16,
+  "title": "Right to live with dignity",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every person shall have the right to live with dignity."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "No law shall be made providing for the death penalty to any one."
+    }
+  ],
+  "part_number": 3
 }

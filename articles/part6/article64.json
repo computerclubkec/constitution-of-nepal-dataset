@@ -1,0 +1,39 @@
+{
+  "article_number": 64,
+  "title": "Qualification for President",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A person who has the following qualification shall be qualified to become the President:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "being qualified to become a member of the Federal Parliament,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "having completed the age of at least forty five years, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "not being disqualified by any law."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Notwithstanding anything contained in clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ", a person who has already been elected twice as the President shall not become a candidate in the election to the President."
+    }
+  ],
+  "part_number": 6
+}

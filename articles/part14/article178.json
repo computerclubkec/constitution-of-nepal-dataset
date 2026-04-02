@@ -1,0 +1,49 @@
+{
+  "article_number": 178,
+  "title": "Qualification for member of State Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A person who has the following qualification shall be qualified to become a member of the State Assembly:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "being a citizen of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "being a voter of the concerned State,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "having completed the age of twenty five years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "not having been convicted of a criminal offense involving moral turpitude,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "not being disqualified by any law, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "not holding any office of profit. Explanation: For the purposes of this clause, \"office of profit\" means any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "If a person who holds a political office to be filled by way of election, nomination or appointment is elected as a member of the State Assembly under this Part, his or her such office shall ipso facto be vacant with effect from the day on which he or she takes an oath of such office."
+    }
+  ],
+  "part_number": 14
+}

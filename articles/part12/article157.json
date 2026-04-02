@@ -1,0 +1,49 @@
+{
+  "article_number": 157,
+  "title": "Attorney General",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be an Attorney General of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The President shall, on recommendation of the Prime Minister, appoint the Attorney General. The Attorney General shall hold office during the pleasure of the Prime Minister."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "A person who is qualified to be appointed as a Judge of the Supreme Court shall be eligible to be appointed as the Attorney General."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The office of the Attorney General shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the President through the Prime Minister,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she is removed from office by the President on recommendation of the Prime Minister,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The remuneration and other facilities of the Attorney General shall be similar to those of a Judge of the Supreme Court. Other conditions of service of the Attorney General shall be in accordance with law."
+    }
+  ],
+  "part_number": 12
+}

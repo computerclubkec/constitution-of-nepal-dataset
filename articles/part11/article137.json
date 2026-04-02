@@ -1,0 +1,54 @@
+{
+  "article_number": 137,
+  "title": "Formation of Constitutional Bench",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a Constitutional Bench in the Supreme Court. The Constitutional Bench shall consist of the Chief Justice and other four Judges designated by the Chief Justice on recommendation of the Judicial Council."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Bench under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall originally try and settle the following cases, in addition to the petitions filed in accordance with clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "of Article 133:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "Disputes relating to jurisdiction between the Federation and a State, between States, between a State and a Local level and between Local levels,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Disputes relating to election to members of the Federal Parliament or State Assembly and matters relating to disqualification of a member of the Federal Parliament or of the State Assembly."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Notwithstanding anything contained in Article 133, if it appears that any case sub judice in the Supreme Court involves a question of serious constitutional interpretation, the Chief Justice may appoint such case to be tried by the Bench under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Other provisions relating to the functioning of the Constitutional Bench shall be as determined by the Supreme Court."
+    }
+  ],
+  "part_number": 11
+}

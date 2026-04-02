@@ -1,0 +1,49 @@
+{
+  "article_number": 154,
+  "title": "Judicial Service Commission",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "In appointing, transferring or promoting gazetted officers of the Federal Judicial Service or taking departmental action concerning such officers in accordance with law, the Government of Nepal shall act on recommendation of the Judicial Service Commission. Provided that in making new permanent appointments to gazetted posts of the Federal Judicial Service from persons who are not already in the Federal Government Service or making promotions from non-gazetted posts of the Federal Judicial Service to gazetted ones of that Service, the Government of Nepal shall act on the recommendation of the Public Service Commission. Explanation: For the purposes of this Article, the Public Service Commission shall hold open and internal competitive examinations to be held for appointments to Gazetted posts of the Federal Judicial Service."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Judicial Service Commission shall consist of the following as its chairperson and members:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "The Chief Justice - Chairperson"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "The Federal Minister for Law and Justice - Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "The seniormost Judge of the Supreme Court - Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "The Chairperson of the Public Service Commission - Member"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "The Attorney General - Member"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Other functions, duties, powers and procedures of the Judicial Service Commission shall be as provided for in the Federal law."
+    }
+  ],
+  "part_number": 11
+}

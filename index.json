@@ -1,6 +1,7 @@
 {
- "title": "Constitution of Nepal",
+  "title": "Constitution of Nepal",
   "preamble": {
+    "title": "Preamble",
     "file": "articles/preamble.json"
   },
   "parts": [
@@ -50,7 +51,7 @@
         },
         {
           "article_number": 9,
-          "title": "National anthem",
+          "title": "National anthem etc",
           "file": "articles/part1/article9.json"
         }
       ]
@@ -90,193 +91,1669 @@
           "file": "articles/part2/article15.json"
         }
       ]
-    }
-  ]
-}
-{
-  "part_number": 3,
-  "title": "Fundamental Rights",
-  "articles": [
-    {
-      "article_number": 16,
-      "title": "Right to live with dignity",
-      "file": "articles/part3/article16.json"
     },
     {
-      "article_number": 17,
-      "title": "Right to freedom",
-      "file": "articles/part3/article17.json"
-    },
-    {
-      "article_number": 18,
-      "title": "Right to equality",
-      "file": "articles/part3/article18.json"
-    },
-    {
-      "article_number": 19,
-      "title": "Right to communication",
-      "file": "articles/part3/article19.json"
-    },
-    {
-      "article_number": 20,
-      "title": "Right to information",
-      "file": "articles/part3/article20.json"
-    },
-    {
-      "article_number": 21,
-      "title": "Right to privacy",
-      "file": "articles/part3/article21.json"
-    },
-    {
-      "article_number": 22,
-      "title": "Right to property",
-      "file": "articles/part3/article22.json"
-    },
-    {
-      "article_number": 23,
-      "title": "Right to religion",
-      "file": "articles/part3/article23.json"
-    },
-    {
-      "article_number": 24,
-      "title": "Right to education",
-      "file": "articles/part3/article24.json"
-    },
-    {
-      "article_number": 25,
-      "title": "Right to health",
-      "file": "articles/part3/article25.json"
-    },
-    {
-      "article_number": 26,
-      "title": "Right to social justice",
-      "file": "articles/part3/article26.json"
-    },
-    {
-      "article_number": 27,
-      "title": "Right to work",
-      "file": "articles/part3/article27.json"
-    },
-    {
-      "article_number": 28,
-      "title": "Right to food sovereignty",
-      "file": "articles/part3/article28.json"
-    },
-    {
-      "article_number": 29,
-      "title": "Right to clean environment",
-      "file": "articles/part3/article29.json"
-    },
-    {
-      "article_number": 30,
-      "title": "Right to information",
-      "file": "articles/part3/article30.json"
-    },
-    {
-      "article_number": 31,
-      "title": "Right to constitutional remedies",
-      "file": "articles/part3/article31.json"
-    },
-    {
-      "article_number": 32,
-      "title": "Restrictions on the exercise of fundamental rights",
-      "file": "articles/part3/article32.json"
-    },
-     {
-      "article_number": 33,
-      "title": "Right to employment",
-      "file": "articles/part3/article33.json"
-    },
-     {
-      "article_number": 34,
-      "title": "Right to labour",
-      "file": "articles/part3/article34.json"
-    },
-     {
-      "article_number": 35,
-      "title": "Right of Victim of Crime",
-      "file": "articles/part3/article35.json"
-    },
-    {
-      "article_number": 36,
-      "title": "Right relating to food",
-      "file": "articles/part3/article36.json"
-    },
-    {
-      "article_number": 37,
-      "title": "Right to housing",
-      "file": "articles/part3/article37.json"
-    },
-    {
-      "article_number": 38,
-      "title": "Right of women",
-      "file": "articles/part3/article38.json"
-    },
-    {
-      "article_number": 39,
-      "title": "Right of the child",
-      "file": "articles/part3/article39.json"
-    },
-    {
-      "article_number": 40,
-      "title": "Right of Dalit",
-      "file": "articles/part3/article40.json"
-    },
-    {
-      "article_number": 41,
-      "title": "Right of Senior citizen",
-      "file": "articles/part3/article41.json"
-    },
-    {
-      "article_number": 42,
-      "title": "Right to social justice",
-      "file": "articles/part3/article42.json"
-    },
-    {
-      "article_number": 43,
-      "title": "Right to social security",
-      "file": "articles/part3/article43.json"
-    },
-    {
-      "article_number": 44,
-      "title": "Right of the consumer",
-      "file": "articles/part3/article44.json"
-    },
-    {
-      "article_number": 45,
-      "title": "Right against exile",
-      "file": "articles/part3/article45.json"
-    },{
-      "article_number": 46,
-      "title": " Right to constitutional remedies",
-      "file": "articles/part3/article46.json"
-    },
-    {
-      "article_number": 47,
-      "title": "Implementation of fundamental rights",
-      "file": "articles/part3/article47.json"
-    },
-    {
-      "article_number": 48,
-      "title": "Duties of citizens",
-      "file": "articles/part3/article48.json"
-    }
-  ]
-}
-{
-  "part_number": 4,
-  "title": "Directive Principles, Policies and Obligations of the State",
-  "articles": [
-    {
-      "article_number": 49,
-      "title": "Right to live with dignity",
-      "file": "articles/part4/article49.json"
-    },
-       {
-      "article_number": 50,
-      "title": "Right to live with dignity",
-      "file": "articles/part4/article50.json"
-    },
+      "part_number": 3,
+      "title": "Fundamental Rights and Duties",
+      "articles": [
+        {
+          "article_number": 16,
+          "title": "Right to live with dignity",
+          "file": "articles/part3/article16.json"
+        },
+        {
+          "article_number": 17,
+          "title": "Right to freedom",
+          "file": "articles/part3/article17.json"
+        },
+        {
+          "article_number": 18,
+          "title": "Right to equality",
+          "file": "articles/part3/article18.json"
+        },
+        {
+          "article_number": 19,
+          "title": "Right to communication",
+          "file": "articles/part3/article19.json"
+        },
+        {
+          "article_number": 20,
+          "title": "Rights relating to justice",
+          "file": "articles/part3/article20.json"
+        },
+        {
+          "article_number": 21,
+          "title": "Right of victim of crime",
+          "file": "articles/part3/article21.json"
+        },
+        {
+          "article_number": 22,
+          "title": "Right against torture",
+          "file": "articles/part3/article22.json"
+        },
+        {
+          "article_number": 23,
+          "title": "Right against preventive detention",
+          "file": "articles/part3/article23.json"
+        },
+        {
+          "article_number": 24,
+          "title": "Right against untouchability and discrimination",
+          "file": "articles/part3/article24.json"
+        },
+        {
+          "article_number": 25,
+          "title": "Right relating to property",
+          "file": "articles/part3/article25.json"
+        },
+        {
+          "article_number": 26,
+          "title": "Right to freedom of religion",
+          "file": "articles/part3/article26.json"
+        },
+        {
+          "article_number": 27,
+          "title": "Right to information",
+          "file": "articles/part3/article27.json"
+        },
+        {
+          "article_number": 28,
+          "title": "Right to privacy",
+          "file": "articles/part3/article28.json"
+        },
+        {
+          "article_number": 29,
+          "title": "Right against exploitation",
+          "file": "articles/part3/article29.json"
+        },
+        {
+          "article_number": 30,
+          "title": "Right to clean environment",
+          "file": "articles/part3/article30.json"
+        },
+        {
+          "article_number": 31,
+          "title": "Right relating to education",
+          "file": "articles/part3/article31.json"
+        },
+        {
+          "article_number": 32,
+          "title": "Right to language and culture",
+          "file": "articles/part3/article32.json"
+        },
+        {
+          "article_number": 33,
+          "title": "Right to employment",
+          "file": "articles/part3/article33.json"
+        },
+        {
+          "article_number": 34,
+          "title": "Right to labour",
+          "file": "articles/part3/article34.json"
+        },
+        {
+          "article_number": 35,
+          "title": "Right relating to health",
+          "file": "articles/part3/article35.json"
+        },
+        {
+          "article_number": 36,
+          "title": "Right relating to food",
+          "file": "articles/part3/article36.json"
+        },
+        {
+          "article_number": 37,
+          "title": "Right to housing",
+          "file": "articles/part3/article37.json"
+        },
+        {
+          "article_number": 38,
+          "title": "Rights of women",
+          "file": "articles/part3/article38.json"
+        },
+        {
+          "article_number": 39,
+          "title": "Rights of the child",
+          "file": "articles/part3/article39.json"
+        },
+        {
+          "article_number": 40,
+          "title": "Rights of Dalit",
+          "file": "articles/part3/article40.json"
+        },
+        {
+          "article_number": 41,
+          "title": "Rights of senior citizens",
+          "file": "articles/part3/article41.json"
+        },
+        {
+          "article_number": 42,
+          "title": "Right to social justice",
+          "file": "articles/part3/article42.json"
+        },
+        {
+          "article_number": 43,
+          "title": "Right to social security",
+          "file": "articles/part3/article43.json"
+        },
+        {
+          "article_number": 44,
+          "title": "Rights of the consumer",
+          "file": "articles/part3/article44.json"
+        },
+        {
+          "article_number": 45,
+          "title": "Right against exile",
+          "file": "articles/part3/article45.json"
+        },
+        {
+          "article_number": 46,
+          "title": "Right to constitutional remedies",
+          "file": "articles/part3/article46.json"
+        },
+        {
+          "article_number": 47,
+          "title": "Implementation of fundamental rights",
+          "file": "articles/part3/article47.json"
+        },
+        {
+          "article_number": 48,
+          "title": "Duties of citizens",
+          "file": "articles/part3/article48.json"
+        }
       ]
+    },
+    {
+      "part_number": 4,
+      "title": "Directive Principles, Policies and Obligations of the State",
+      "articles": [
+        {
+          "article_number": 49,
+          "title": "To be guiding principles",
+          "file": "articles/part4/article49.json"
+        },
+        {
+          "article_number": 50,
+          "title": "Directive principles",
+          "file": "articles/part4/article50.json"
+        },
+        {
+          "article_number": 51,
+          "title": "Policies of the State",
+          "file": "articles/part4/article51.json"
+        },
+        {
+          "article_number": 52,
+          "title": "Obligations of the State",
+          "file": "articles/part4/article52.json"
+        },
+        {
+          "article_number": 53,
+          "title": "To submit report",
+          "file": "articles/part4/article53.json"
+        },
+        {
+          "article_number": 54,
+          "title": "Provisions relating to monitoring",
+          "file": "articles/part4/article54.json"
+        },
+        {
+          "article_number": 55,
+          "title": "Questions not to be raised in court",
+          "file": "articles/part4/article55.json"
+        }
+      ]
+    },
+    {
+      "part_number": 5,
+      "title": "Structure of State and Distribution of State Power",
+      "articles": [
+        {
+          "article_number": 56,
+          "title": "Structure of State",
+          "file": "articles/part5/article56.json"
+        },
+        {
+          "article_number": 57,
+          "title": "Distribution of State power",
+          "file": "articles/part5/article57.json"
+        },
+        {
+          "article_number": 58,
+          "title": "Residual powers",
+          "file": "articles/part5/article58.json"
+        },
+        {
+          "article_number": 59,
+          "title": "Exercise of financial powers",
+          "file": "articles/part5/article59.json"
+        },
+        {
+          "article_number": 60,
+          "title": "Distribution of sources of revenue",
+          "file": "articles/part5/article60.json"
+        }
+      ]
+    },
+    {
+      "part_number": 6,
+      "title": "President and Vice-President",
+      "articles": [
+        {
+          "article_number": 61,
+          "title": "President",
+          "file": "articles/part6/article61.json"
+        },
+        {
+          "article_number": 62,
+          "title": "Election of President",
+          "file": "articles/part6/article62.json"
+        },
+        {
+          "article_number": 63,
+          "title": "Term of office of President",
+          "file": "articles/part6/article63.json"
+        },
+        {
+          "article_number": 64,
+          "title": "Qualification for President",
+          "file": "articles/part6/article64.json"
+        },
+        {
+          "article_number": 65,
+          "title": "Vacation of office of President",
+          "file": "articles/part6/article65.json"
+        },
+        {
+          "article_number": 66,
+          "title": "Functions, duties and powers of President",
+          "file": "articles/part6/article66.json"
+        },
+        {
+          "article_number": 67,
+          "title": "Vice-President",
+          "file": "articles/part6/article67.json"
+        },
+        {
+          "article_number": 68,
+          "title": "Vacation of office of Vice-president",
+          "file": "articles/part6/article68.json"
+        },
+        {
+          "article_number": 69,
+          "title": "Other provisions relating to Vice-President",
+          "file": "articles/part6/article69.json"
+        },
+        {
+          "article_number": 70,
+          "title": "President and Vice-President to be from different sex or community",
+          "file": "articles/part6/article70.json"
+        },
+        {
+          "article_number": 71,
+          "title": "Oath by President and Vice-President",
+          "file": "articles/part6/article71.json"
+        },
+        {
+          "article_number": 72,
+          "title": "Remuneration and facilities of President and Vice-President",
+          "file": "articles/part6/article72.json"
+        },
+        {
+          "article_number": 73,
+          "title": "Office of President and Vice-President",
+          "file": "articles/part6/article73.json"
+        }
+      ]
+    },
+    {
+      "part_number": 7,
+      "title": "Federal Executive",
+      "articles": [
+        {
+          "article_number": 74,
+          "title": "Form of government",
+          "file": "articles/part7/article74.json"
+        },
+        {
+          "article_number": 75,
+          "title": "Executive power",
+          "file": "articles/part7/article75.json"
+        },
+        {
+          "article_number": 76,
+          "title": "Constitution of Council of Ministers",
+          "file": "articles/part7/article76.json"
+        },
+        {
+          "article_number": 77,
+          "title": "Vacation of office of Prime Minister and Minister",
+          "file": "articles/part7/article77.json"
+        },
+        {
+          "article_number": 78,
+          "title": "Non-member of Federal Parliament to be Minister",
+          "file": "articles/part7/article78.json"
+        },
+        {
+          "article_number": 79,
+          "title": "Remuneration and other facilities of Prime Minister and Ministers",
+          "file": "articles/part7/article79.json"
+        },
+        {
+          "article_number": 80,
+          "title": "Oath",
+          "file": "articles/part7/article80.json"
+        },
+        {
+          "article_number": 81,
+          "title": "To inform President",
+          "file": "articles/part7/article81.json"
+        },
+        {
+          "article_number": 82,
+          "title": "Transaction of business of Government of Nepal",
+          "file": "articles/part7/article82.json"
+        }
+      ]
+    },
+    {
+      "part_number": 8,
+      "title": "Federal Legislature",
+      "articles": [
+        {
+          "article_number": 83,
+          "title": "Federal Legislature",
+          "file": "articles/part8/article83.json"
+        },
+        {
+          "article_number": 84,
+          "title": "Composition of House of Representatives",
+          "file": "articles/part8/article84.json"
+        },
+        {
+          "article_number": 85,
+          "title": "Term of House of Representatives",
+          "file": "articles/part8/article85.json"
+        },
+        {
+          "article_number": 86,
+          "title": "Composition of National Assembly and term of office of its members",
+          "file": "articles/part8/article86.json"
+        },
+        {
+          "article_number": 87,
+          "title": "Qualification for member",
+          "file": "articles/part8/article87.json"
+        },
+        {
+          "article_number": 88,
+          "title": "Oath",
+          "file": "articles/part8/article88.json"
+        },
+        {
+          "article_number": 89,
+          "title": "Vacation of seat",
+          "file": "articles/part8/article89.json"
+        },
+        {
+          "article_number": 90,
+          "title": "Decision as to disqualification of member",
+          "file": "articles/part8/article90.json"
+        },
+        {
+          "article_number": 91,
+          "title": "Speaker and Deputy Speaker of House of Representatives",
+          "file": "articles/part8/article91.json"
+        },
+        {
+          "article_number": 92,
+          "title": "Chairperson and Vice-Chairperson of National Assembly",
+          "file": "articles/part8/article92.json"
+        },
+        {
+          "article_number": 93,
+          "title": "Summoning and prorogation of session",
+          "file": "articles/part8/article93.json"
+        },
+        {
+          "article_number": 94,
+          "title": "Quorum",
+          "file": "articles/part8/article94.json"
+        },
+        {
+          "article_number": 95,
+          "title": "Address by President",
+          "file": "articles/part8/article95.json"
+        },
+        {
+          "article_number": 96,
+          "title": "Deputy Prime Minister, Minister, Minister of State and Assistant Minister entitled to take part in both Houses",
+          "file": "articles/part8/article96.json"
+        },
+        {
+          "article_number": 97,
+          "title": "Formation of committees",
+          "file": "articles/part8/article97.json"
+        },
+        {
+          "article_number": 98,
+          "title": "Transaction of business in case of vacancy in seat of member",
+          "file": "articles/part8/article98.json"
+        },
+        {
+          "article_number": 99,
+          "title": "Voting",
+          "file": "articles/part8/article99.json"
+        },
+        {
+          "article_number": 100,
+          "title": "Provisions relating to vote of confidence and motion of no-confidence",
+          "file": "articles/part8/article100.json"
+        },
+        {
+          "article_number": 101,
+          "title": "Impeachment",
+          "file": "articles/part8/article101.json"
+        },
+        {
+          "article_number": 102,
+          "title": "Penalty for unauthorized presence or voting",
+          "file": "articles/part8/article102.json"
+        },
+        {
+          "article_number": 103,
+          "title": "Privileges",
+          "file": "articles/part8/article103.json"
+        },
+        {
+          "article_number": 104,
+          "title": "Procedures relating to conduct of business",
+          "file": "articles/part8/article104.json"
+        },
+        {
+          "article_number": 105,
+          "title": "Restriction on discussion",
+          "file": "articles/part8/article105.json"
+        },
+        {
+          "article_number": 106,
+          "title": "Secretary General and Secretary of Federal Parliament",
+          "file": "articles/part8/article106.json"
+        },
+        {
+          "article_number": 107,
+          "title": "Secretariat of Federal Parliament",
+          "file": "articles/part8/article107.json"
+        },
+        {
+          "article_number": 108,
+          "title": "Remuneration",
+          "file": "articles/part8/article108.json"
+        }
+      ]
+    },
+    {
+      "part_number": 9,
+      "title": "Federal Legislative Procedures",
+      "articles": [
+        {
+          "article_number": 109,
+          "title": "Legislative powers of Federal Parliament",
+          "file": "articles/part9/article109.json"
+        },
+        {
+          "article_number": 110,
+          "title": "Procedures for introduction of Bills",
+          "file": "articles/part9/article110.json"
+        },
+        {
+          "article_number": 111,
+          "title": "Procedures for passage of Bills",
+          "file": "articles/part9/article111.json"
+        },
+        {
+          "article_number": 112,
+          "title": "Withdrawal of Bills",
+          "file": "articles/part9/article112.json"
+        },
+        {
+          "article_number": 113,
+          "title": "Assent on Bills",
+          "file": "articles/part9/article113.json"
+        },
+        {
+          "article_number": 114,
+          "title": "Provisions relating to Ordinance",
+          "file": "articles/part9/article114.json"
+        }
+      ]
+    },
+    {
+      "part_number": 10,
+      "title": "Federal Financial Procedures",
+      "articles": [
+        {
+          "article_number": 115,
+          "title": "No tax to be levied or loan to be raised",
+          "file": "articles/part10/article115.json"
+        },
+        {
+          "article_number": 116,
+          "title": "Federal Consolidated Fund",
+          "file": "articles/part10/article116.json"
+        },
+        {
+          "article_number": 117,
+          "title": "Expenditures from Consolidated Fund or Government Fund",
+          "file": "articles/part10/article117.json"
+        },
+        {
+          "article_number": 118,
+          "title": "Expenditures chargeable on Federal Consolidated Fund",
+          "file": "articles/part10/article118.json"
+        },
+        {
+          "article_number": 119,
+          "title": "Estimates of revenues and expenditures",
+          "file": "articles/part10/article119.json"
+        },
+        {
+          "article_number": 120,
+          "title": "Appropriation Act",
+          "file": "articles/part10/article120.json"
+        },
+        {
+          "article_number": 121,
+          "title": "Supplementary estimates",
+          "file": "articles/part10/article121.json"
+        },
+        {
+          "article_number": 122,
+          "title": "Votes on account",
+          "file": "articles/part10/article122.json"
+        },
+        {
+          "article_number": 123,
+          "title": "Votes of credit",
+          "file": "articles/part10/article123.json"
+        },
+        {
+          "article_number": 124,
+          "title": "Federal contingency fund",
+          "file": "articles/part10/article124.json"
+        },
+        {
+          "article_number": 125,
+          "title": "Act relating to financial procedures",
+          "file": "articles/part10/article125.json"
+        }
+      ]
+    },
+    {
+      "part_number": 11,
+      "title": "Judiciary",
+      "articles": [
+        {
+          "article_number": 126,
+          "title": "Courts to exercise powers relating to justice",
+          "file": "articles/part11/article126.json"
+        },
+        {
+          "article_number": 127,
+          "title": "Courts",
+          "file": "articles/part11/article127.json"
+        },
+        {
+          "article_number": 128,
+          "title": "Supreme Court",
+          "file": "articles/part11/article128.json"
+        },
+        {
+          "article_number": 129,
+          "title": "Appointment and qualification of Chief Justice of Nepal and Judges of Supreme Court",
+          "file": "articles/part11/article129.json"
+        },
+        {
+          "article_number": 130,
+          "title": "Conditions of service and facilities of Chief Justice and Judges",
+          "file": "articles/part11/article130.json"
+        },
+        {
+          "article_number": 131,
+          "title": "Vacation of office of Chief Justice or Judge of Supreme Court",
+          "file": "articles/part11/article131.json"
+        },
+        {
+          "article_number": 132,
+          "title": "Chief Justice and Judges of Supreme Court not to be engaged in any other office",
+          "file": "articles/part11/article132.json"
+        },
+        {
+          "article_number": 133,
+          "title": "Jurisdiction of Supreme Court",
+          "file": "articles/part11/article133.json"
+        },
+        {
+          "article_number": 134,
+          "title": "Power to transfer of cases",
+          "file": "articles/part11/article134.json"
+        },
+        {
+          "article_number": 135,
+          "title": "Not to be engaged in practice of law",
+          "file": "articles/part11/article135.json"
+        },
+        {
+          "article_number": 136,
+          "title": "Responsibility of Chief Justice",
+          "file": "articles/part11/article136.json"
+        },
+        {
+          "article_number": 137,
+          "title": "Formation of Constitutional Bench",
+          "file": "articles/part11/article137.json"
+        },
+        {
+          "article_number": 138,
+          "title": "Annual report",
+          "file": "articles/part11/article138.json"
+        },
+        {
+          "article_number": 139,
+          "title": "High Courts",
+          "file": "articles/part11/article139.json"
+        },
+        {
+          "article_number": 140,
+          "title": "Appointment and qualification of Chief Judge and Judges of High Court",
+          "file": "articles/part11/article140.json"
+        },
+        {
+          "article_number": 141,
+          "title": "Conditions of service and facilities of Chief Judge and Judges",
+          "file": "articles/part11/article141.json"
+        },
+        {
+          "article_number": 142,
+          "title": "Vacation of office of Chief Judge or Judge",
+          "file": "articles/part11/article142.json"
+        },
+        {
+          "article_number": 143,
+          "title": "Chief Judge and Judges not to be engaged in any other office and provisions relating to transfer",
+          "file": "articles/part11/article143.json"
+        },
+        {
+          "article_number": 144,
+          "title": "Jurisdiction of High Court",
+          "file": "articles/part11/article144.json"
+        },
+        {
+          "article_number": 145,
+          "title": "Power to transfer cases",
+          "file": "articles/part11/article145.json"
+        },
+        {
+          "article_number": 146,
+          "title": "To be engaged in practice of law",
+          "file": "articles/part11/article146.json"
+        },
+        {
+          "article_number": 147,
+          "title": "Responsibility of Chief Judge",
+          "file": "articles/part11/article147.json"
+        },
+        {
+          "article_number": 148,
+          "title": "District Courts",
+          "file": "articles/part11/article148.json"
+        },
+        {
+          "article_number": 149,
+          "title": "Appointment, qualification, remuneration and other conditions of service of Judges of District Courts",
+          "file": "articles/part11/article149.json"
+        },
+        {
+          "article_number": 150,
+          "title": "District Judges not to be engaged in any other office and provisions relating to transfer",
+          "file": "articles/part11/article150.json"
+        },
+        {
+          "article_number": 151,
+          "title": "Jurisdiction of District Court",
+          "file": "articles/part11/article151.json"
+        },
+        {
+          "article_number": 152,
+          "title": "Specialized courts",
+          "file": "articles/part11/article152.json"
+        },
+        {
+          "article_number": 153,
+          "title": "Judicial Council",
+          "file": "articles/part11/article153.json"
+        },
+        {
+          "article_number": 154,
+          "title": "Judicial Service Commission",
+          "file": "articles/part11/article154.json"
+        },
+        {
+          "article_number": 155,
+          "title": "Provisions relating to conditions of service and facilities",
+          "file": "articles/part11/article155.json"
+        },
+        {
+          "article_number": 156,
+          "title": "Provisions relating to State Judicial Service Commission",
+          "file": "articles/part11/article156.json"
+        }
+      ]
+    },
+    {
+      "part_number": 12,
+      "title": "Attorney General",
+      "articles": [
+        {
+          "article_number": 157,
+          "title": "Attorney General",
+          "file": "articles/part12/article157.json"
+        },
+        {
+          "article_number": 158,
+          "title": "Functions, duties and powers of Attorney General",
+          "file": "articles/part12/article158.json"
+        },
+        {
+          "article_number": 159,
+          "title": "Annual report",
+          "file": "articles/part12/article159.json"
+        },
+        {
+          "article_number": 160,
+          "title": "Chief Attorney",
+          "file": "articles/part12/article160.json"
+        },
+        {
+          "article_number": 161,
+          "title": "Provisions relating to conditions of service and facilities",
+          "file": "articles/part12/article161.json"
+        }
+      ]
+    },
+    {
+      "part_number": 13,
+      "title": "State Executive",
+      "articles": [
+        {
+          "article_number": 162,
+          "title": "Executive power of State",
+          "file": "articles/part13/article162.json"
+        },
+        {
+          "article_number": 163,
+          "title": "Provisions relating to Chief of State",
+          "file": "articles/part13/article163.json"
+        },
+        {
+          "article_number": 164,
+          "title": "Qualification for Chief of State",
+          "file": "articles/part13/article164.json"
+        },
+        {
+          "article_number": 165,
+          "title": "Vacation of office of Chief of State",
+          "file": "articles/part13/article165.json"
+        },
+        {
+          "article_number": 166,
+          "title": "Functions, duties and powers of Chief of State",
+          "file": "articles/part13/article166.json"
+        },
+        {
+          "article_number": 167,
+          "title": "Oath by Chief of State",
+          "file": "articles/part13/article167.json"
+        },
+        {
+          "article_number": 168,
+          "title": "Constitution of State Council of Ministers",
+          "file": "articles/part13/article168.json"
+        },
+        {
+          "article_number": 169,
+          "title": "Vacation of office of Chief Minister and Minister",
+          "file": "articles/part13/article169.json"
+        },
+        {
+          "article_number": 170,
+          "title": "Appointment of non-member of State Assembly as Minister",
+          "file": "articles/part13/article170.json"
+        },
+        {
+          "article_number": 171,
+          "title": "Remuneration and other Facilities of Chief Minister and Minister",
+          "file": "articles/part13/article171.json"
+        },
+        {
+          "article_number": 172,
+          "title": "Oath",
+          "file": "articles/part13/article172.json"
+        },
+        {
+          "article_number": 173,
+          "title": "To give information to Chief of State",
+          "file": "articles/part13/article173.json"
+        },
+        {
+          "article_number": 174,
+          "title": "Transaction of business of State Government",
+          "file": "articles/part13/article174.json"
+        }
+      ]
+    },
+    {
+      "part_number": 14,
+      "title": "State Legislature",
+      "articles": [
+        {
+          "article_number": 175,
+          "title": "State Legislature",
+          "file": "articles/part14/article175.json"
+        },
+        {
+          "article_number": 176,
+          "title": "Composition of State Assembly",
+          "file": "articles/part14/article176.json"
+        },
+        {
+          "article_number": 177,
+          "title": "Term of State Assembly",
+          "file": "articles/part14/article177.json"
+        },
+        {
+          "article_number": 178,
+          "title": "Qualification for member of State Assembly",
+          "file": "articles/part14/article178.json"
+        },
+        {
+          "article_number": 179,
+          "title": "Oath of member of State Assembly",
+          "file": "articles/part14/article179.json"
+        },
+        {
+          "article_number": 180,
+          "title": "Vacation of seat of member of State Assembly",
+          "file": "articles/part14/article180.json"
+        },
+        {
+          "article_number": 181,
+          "title": "Decision as to disqualification of member",
+          "file": "articles/part14/article181.json"
+        },
+        {
+          "article_number": 182,
+          "title": "Speaker and Deputy Speaker of State Assembly",
+          "file": "articles/part14/article182.json"
+        },
+        {
+          "article_number": 183,
+          "title": "Summoning and prorogation of session of State Assembly",
+          "file": "articles/part14/article183.json"
+        },
+        {
+          "article_number": 184,
+          "title": "Address by Chief of State",
+          "file": "articles/part14/article184.json"
+        },
+        {
+          "article_number": 185,
+          "title": "Quorum of State Assembly",
+          "file": "articles/part14/article185.json"
+        },
+        {
+          "article_number": 186,
+          "title": "Voting in State Assembly",
+          "file": "articles/part14/article186.json"
+        },
+        {
+          "article_number": 187,
+          "title": "Privileges of State Assembly",
+          "file": "articles/part14/article187.json"
+        },
+        {
+          "article_number": 188,
+          "title": "Provisions relating to vote of confidence and motion of no-confidence",
+          "file": "articles/part14/article188.json"
+        },
+        {
+          "article_number": 189,
+          "title": "Minister, Minister of State and Assistant Minister entitled to take part in meetings of State Assembly",
+          "file": "articles/part14/article189.json"
+        },
+        {
+          "article_number": 190,
+          "title": "Penalty for unauthorized presence or voting in State Assembly",
+          "file": "articles/part14/article190.json"
+        },
+        {
+          "article_number": 191,
+          "title": "Restriction on discussion",
+          "file": "articles/part14/article191.json"
+        },
+        {
+          "article_number": 192,
+          "title": "Transaction of business in case of vacancy in seat of member",
+          "file": "articles/part14/article192.json"
+        },
+        {
+          "article_number": 193,
+          "title": "Power of State Assembly to form committees",
+          "file": "articles/part14/article193.json"
+        },
+        {
+          "article_number": 194,
+          "title": "Procedures relating to conduct of business of State Assembly",
+          "file": "articles/part14/article194.json"
+        },
+        {
+          "article_number": 195,
+          "title": "Secretary and Secretariat of State Assembly",
+          "file": "articles/part14/article195.json"
+        },
+        {
+          "article_number": 196,
+          "title": "Remuneration",
+          "file": "articles/part14/article196.json"
+        }
+      ]
+    },
+    {
+      "part_number": 15,
+      "title": "State Legislative Procedures",
+      "articles": [
+        {
+          "article_number": 197,
+          "title": "Legislative powers of State Assembly",
+          "file": "articles/part15/article197.json"
+        },
+        {
+          "article_number": 198,
+          "title": "Procedures for introduction of Bills in State Assembly",
+          "file": "articles/part15/article198.json"
+        },
+        {
+          "article_number": 199,
+          "title": "Procedures for passage of Bills",
+          "file": "articles/part15/article199.json"
+        },
+        {
+          "article_number": 200,
+          "title": "Withdrawal of Bills",
+          "file": "articles/part15/article200.json"
+        },
+        {
+          "article_number": 201,
+          "title": "Assent on Bills",
+          "file": "articles/part15/article201.json"
+        },
+        {
+          "article_number": 202,
+          "title": "Ordinance",
+          "file": "articles/part15/article202.json"
+        }
+      ]
+    },
+    {
+      "part_number": 16,
+      "title": "State Financial Procedures",
+      "articles": [
+        {
+          "article_number": 203,
+          "title": "No tax to be levied or loan to be raised",
+          "file": "articles/part16/article203.json"
+        },
+        {
+          "article_number": 204,
+          "title": "State Consolidated Fund",
+          "file": "articles/part16/article204.json"
+        },
+        {
+          "article_number": 205,
+          "title": "Expenditures from State Consolidated Fund or State Government Fund",
+          "file": "articles/part16/article205.json"
+        },
+        {
+          "article_number": 206,
+          "title": "Expenditures chargeable on State Consolidated Fund",
+          "file": "articles/part16/article206.json"
+        },
+        {
+          "article_number": 207,
+          "title": "Estimates of revenues and expenditures",
+          "file": "articles/part16/article207.json"
+        },
+        {
+          "article_number": 208,
+          "title": "State Appropriation Act",
+          "file": "articles/part16/article208.json"
+        },
+        {
+          "article_number": 209,
+          "title": "Supplementary estimates",
+          "file": "articles/part16/article209.json"
+        },
+        {
+          "article_number": 210,
+          "title": "Votes on Account",
+          "file": "articles/part16/article210.json"
+        },
+        {
+          "article_number": 211,
+          "title": "Votes of Credit",
+          "file": "articles/part16/article211.json"
+        },
+        {
+          "article_number": 212,
+          "title": "State Contingency Fund",
+          "file": "articles/part16/article212.json"
+        },
+        {
+          "article_number": 213,
+          "title": "Act relating to financial procedures",
+          "file": "articles/part16/article213.json"
+        }
+      ]
+    },
+    {
+      "part_number": 17,
+      "title": "Local Executive",
+      "articles": [
+        {
+          "article_number": 214,
+          "title": "Executive power of Local Level",
+          "file": "articles/part17/article214.json"
+        },
+        {
+          "article_number": 215,
+          "title": "Provisions relating to Chairperson and Vice-Chairperson of Village Executive",
+          "file": "articles/part17/article215.json"
+        },
+        {
+          "article_number": 216,
+          "title": "Provisions relating to Mayor and Deputy Mayor of Municipal Executive",
+          "file": "articles/part17/article216.json"
+        },
+        {
+          "article_number": 217,
+          "title": "Judicial Committee",
+          "file": "articles/part17/article217.json"
+        },
+        {
+          "article_number": 218,
+          "title": "Conduct of business of Village Executive and Municipal Executive",
+          "file": "articles/part17/article218.json"
+        },
+        {
+          "article_number": 219,
+          "title": "Other provisions relating to Local Level Executive",
+          "file": "articles/part17/article219.json"
+        },
+        {
+          "article_number": 220,
+          "title": "District Assembly and District Coordination Committee",
+          "file": "articles/part17/article220.json"
+        }
+      ]
+    },
+    {
+      "part_number": 18,
+      "title": "Local Legislature",
+      "articles": [
+        {
+          "article_number": 221,
+          "title": "Legislative powers of Local Level",
+          "file": "articles/part18/article221.json"
+        },
+        {
+          "article_number": 222,
+          "title": "Composition of Village Assembly",
+          "file": "articles/part18/article222.json"
+        },
+        {
+          "article_number": 223,
+          "title": "Composition of Municipal Assembly",
+          "file": "articles/part18/article223.json"
+        },
+        {
+          "article_number": 224,
+          "title": "Chairperson and Vice-Chairperson of Village Assembly and Municipal Assembly",
+          "file": "articles/part18/article224.json"
+        },
+        {
+          "article_number": 225,
+          "title": "Term of Village Assembly and Municipal Assembly",
+          "file": "articles/part18/article225.json"
+        },
+        {
+          "article_number": 226,
+          "title": "Powers to make law",
+          "file": "articles/part18/article226.json"
+        },
+        {
+          "article_number": 227,
+          "title": "Other provisions relating to Village Assembly and Municipal Assembly",
+          "file": "articles/part18/article227.json"
+        }
+      ]
+    },
+    {
+      "part_number": 19,
+      "title": "Local Financial Procedures",
+      "articles": [
+        {
+          "article_number": 228,
+          "title": "No tax to be levied or loan to be raised",
+          "file": "articles/part19/article228.json"
+        },
+        {
+          "article_number": 229,
+          "title": "Local Consolidated Fund",
+          "file": "articles/part19/article229.json"
+        },
+        {
+          "article_number": 230,
+          "title": "Estimates of revenues and expenditures of Village Body and Municipality",
+          "file": "articles/part19/article230.json"
+        }
+      ]
+    },
+    {
+      "part_number": 20,
+      "title": "Interrelations between Federation, State and Local Level",
+      "articles": [
+        {
+          "article_number": 231,
+          "title": "Legislative interrelations between Federation and States",
+          "file": "articles/part20/article231.json"
+        },
+        {
+          "article_number": 232,
+          "title": "Relations between Federation, State and Local level",
+          "file": "articles/part20/article232.json"
+        },
+        {
+          "article_number": 233,
+          "title": "Relations between States",
+          "file": "articles/part20/article233.json"
+        },
+        {
+          "article_number": 234,
+          "title": "Inter-State Council",
+          "file": "articles/part20/article234.json"
+        },
+        {
+          "article_number": 235,
+          "title": "Coordination between Federation, State and Local Level",
+          "file": "articles/part20/article235.json"
+        },
+        {
+          "article_number": 236,
+          "title": "Inter-State trade",
+          "file": "articles/part20/article236.json"
+        },
+        {
+          "article_number": 237,
+          "title": "Not to affect jurisdiction of Constitutional Bench of Supreme Court",
+          "file": "articles/part20/article237.json"
+        }
+      ]
+    },
+    {
+      "part_number": 21,
+      "title": "Commission for the Investigation of Abuse of Authority",
+      "articles": [
+        {
+          "article_number": 238,
+          "title": "Commission for the Investigation of Abuse of Authority",
+          "file": "articles/part21/article238.json"
+        },
+        {
+          "article_number": 239,
+          "title": "Functions, duties and powers of the Commission for the Investigation of Abuse of Authority",
+          "file": "articles/part21/article239.json"
+        }
+      ]
+    },
+    {
+      "part_number": 22,
+      "title": "Auditor General",
+      "articles": [
+        {
+          "article_number": 240,
+          "title": "Auditor General",
+          "file": "articles/part22/article240.json"
+        },
+        {
+          "article_number": 241,
+          "title": "Functions, duties and powers of Auditor-General",
+          "file": "articles/part22/article241.json"
+        }
+      ]
+    },
+    {
+      "part_number": 23,
+      "title": "Public Service Commission",
+      "articles": [
+        {
+          "article_number": 242,
+          "title": "Public Service Commission",
+          "file": "articles/part23/article242.json"
+        },
+        {
+          "article_number": 243,
+          "title": "Functions, duties and powers of the Public Service Commission",
+          "file": "articles/part23/article243.json"
+        },
+        {
+          "article_number": 244,
+          "title": "Provisions relating to State Public Service Commission",
+          "file": "articles/part23/article244.json"
+        }
+      ]
+    },
+    {
+      "part_number": 24,
+      "title": "Election Commission",
+      "articles": [
+        {
+          "article_number": 245,
+          "title": "Election Commission",
+          "file": "articles/part24/article245.json"
+        },
+        {
+          "article_number": 246,
+          "title": "Functions, duties and powers of the Election Commission",
+          "file": "articles/part24/article246.json"
+        },
+        {
+          "article_number": 247,
+          "title": "To provide necessary assistance to Election Commission",
+          "file": "articles/part24/article247.json"
+        }
+      ]
+    },
+    {
+      "part_number": 25,
+      "title": "National Human Rights Commission",
+      "articles": [
+        {
+          "article_number": 248,
+          "title": "National Human Rights Commission",
+          "file": "articles/part25/article248.json"
+        },
+        {
+          "article_number": 249,
+          "title": "Functions, duties and powers of National Human Rights Commission",
+          "file": "articles/part25/article249.json"
+        }
+      ]
+    },
+    {
+      "part_number": 26,
+      "title": "National Natural Resources and Fiscal Commission",
+      "articles": [
+        {
+          "article_number": 250,
+          "title": "National Natural Resources and Fiscal Commission",
+          "file": "articles/part26/article250.json"
+        },
+        {
+          "article_number": 251,
+          "title": "Functions, duties and powers of National Natural Resources and Fiscal Commission",
+          "file": "articles/part26/article251.json"
+        }
+      ]
+    },
+    {
+      "part_number": 27,
+      "title": "Other Commissions",
+      "articles": [
+        {
+          "article_number": 252,
+          "title": "National Women Commission",
+          "file": "articles/part27/article252.json"
+        },
+        {
+          "article_number": 253,
+          "title": "Functions, duties and powers of National Women Commission",
+          "file": "articles/part27/article253.json"
+        },
+        {
+          "article_number": 254,
+          "title": "Powers to establish offices in States",
+          "file": "articles/part27/article254.json"
+        },
+        {
+          "article_number": 255,
+          "title": "National Dalit Commission",
+          "file": "articles/part27/article255.json"
+        },
+        {
+          "article_number": 256,
+          "title": "Functions, duties and powers of National Dalit Commission",
+          "file": "articles/part27/article256.json"
+        },
+        {
+          "article_number": 257,
+          "title": "Powers to establish offices in States",
+          "file": "articles/part27/article257.json"
+        },
+        {
+          "article_number": 258,
+          "title": "National Inclusion Commission",
+          "file": "articles/part27/article258.json"
+        },
+        {
+          "article_number": 259,
+          "title": "Functions, duties and powers of National Inclusion Commission",
+          "file": "articles/part27/article259.json"
+        },
+        {
+          "article_number": 260,
+          "title": "Powers to establish offices in States",
+          "file": "articles/part27/article260.json"
+        },
+        {
+          "article_number": 261,
+          "title": "Indigenous Nationalities Commission",
+          "file": "articles/part27/article261.json"
+        },
+        {
+          "article_number": 262,
+          "title": "Madhesi Commission",
+          "file": "articles/part27/article262.json"
+        },
+        {
+          "article_number": 263,
+          "title": "Tharu Commission",
+          "file": "articles/part27/article263.json"
+        },
+        {
+          "article_number": 264,
+          "title": "Muslim Commission",
+          "file": "articles/part27/article264.json"
+        },
+        {
+          "article_number": 265,
+          "title": "Review of Commissions",
+          "file": "articles/part27/article265.json"
+        }
+      ]
+    },
+    {
+      "part_number": 28,
+      "title": "Provisions Relating to National Security",
+      "articles": [
+        {
+          "article_number": 266,
+          "title": "National Security Council",
+          "file": "articles/part28/article266.json"
+        },
+        {
+          "article_number": 267,
+          "title": "Provisions relating to Nepal Army",
+          "file": "articles/part28/article267.json"
+        },
+        {
+          "article_number": 268,
+          "title": "Provisions Relating to Nepal Police, Armed Police Force, Nepal and National Investigation Department",
+          "file": "articles/part28/article268.json"
+        }
+      ]
+    },
+    {
+      "part_number": 29,
+      "title": "Provisions Relating to Political Parties",
+      "articles": [
+        {
+          "article_number": 269,
+          "title": "Formation, registration and operation of political parties",
+          "file": "articles/part29/article269.json"
+        },
+        {
+          "article_number": 270,
+          "title": "Prohibition on imposition of restrictions on political parties",
+          "file": "articles/part29/article270.json"
+        },
+        {
+          "article_number": 271,
+          "title": "Registration required for securing recognition for the purpose of contesting elections as political party",
+          "file": "articles/part29/article271.json"
+        },
+        {
+          "article_number": 272,
+          "title": "Other provisions relating to political parties",
+          "file": "articles/part29/article272.json"
+        }
+      ]
+    },
+    {
+      "part_number": 30,
+      "title": "Emergency Power",
+      "articles": [
+        {
+          "article_number": 273,
+          "title": "Emergency power",
+          "file": "articles/part30/article273.json"
+        }
+      ]
+    },
+    {
+      "part_number": 31,
+      "title": "Amendment to the Constitution",
+      "articles": [
+        {
+          "article_number": 274,
+          "title": "Amendment to Constitution",
+          "file": "articles/part31/article274.json"
+        }
+      ]
+    },
+    {
+      "part_number": 32,
+      "title": "Miscellaneous",
+      "articles": [
+        {
+          "article_number": 275,
+          "title": "Provisions relating to referendum",
+          "file": "articles/part32/article275.json"
+        },
+        {
+          "article_number": 276,
+          "title": "Pardons",
+          "file": "articles/part32/article276.json"
+        },
+        {
+          "article_number": 277,
+          "title": "Titles, honours and decorations",
+          "file": "articles/part32/article277.json"
+        },
+        {
+          "article_number": 278,
+          "title": "Power to make treaties",
+          "file": "articles/part32/article278.json"
+        },
+        {
+          "article_number": 279,
+          "title": "Ratification of, accession to, acceptance of, or approval of, treaties or agreements",
+          "file": "articles/part32/article279.json"
+        },
+        {
+          "article_number": 280,
+          "title": "Special provision relating to discharge of functions of President",
+          "file": "articles/part32/article280.json"
+        },
+        {
+          "article_number": 281,
+          "title": "Appraisal and review of special rights",
+          "file": "articles/part32/article281.json"
+        },
+        {
+          "article_number": 282,
+          "title": "Ambassadors and special emissaries",
+          "file": "articles/part32/article282.json"
+        },
+        {
+          "article_number": 283,
+          "title": "Appointments to be made in accordance with inclusive principle",
+          "file": "articles/part32/article283.json"
+        },
+        {
+          "article_number": 284,
+          "title": "Provisions relating to Constitutional Council",
+          "file": "articles/part32/article284.json"
+        },
+        {
+          "article_number": 285,
+          "title": "Constitution of government service",
+          "file": "articles/part32/article285.json"
+        },
+        {
+          "article_number": 286,
+          "title": "Election Constituency Delimitation Commission",
+          "file": "articles/part32/article286.json"
+        },
+        {
+          "article_number": 287,
+          "title": "Language Commission",
+          "file": "articles/part32/article287.json"
+        },
+        {
+          "article_number": 288,
+          "title": "Capital",
+          "file": "articles/part32/article288.json"
+        },
+        {
+          "article_number": 289,
+          "title": "Special provision relating to citizenship of officials",
+          "file": "articles/part32/article289.json"
+        },
+        {
+          "article_number": 290,
+          "title": "Provisions relating to Guthi (trusts)",
+          "file": "articles/part32/article290.json"
+        },
+        {
+          "article_number": 291,
+          "title": "Not to be qualified for appointment",
+          "file": "articles/part32/article291.json"
+        },
+        {
+          "article_number": 292,
+          "title": "Provisions relating to parliamentary hearings",
+          "file": "articles/part32/article292.json"
+        },
+        {
+          "article_number": 293,
+          "title": "Monitoring of functioning of Constitutional Bodies",
+          "file": "articles/part32/article293.json"
+        },
+        {
+          "article_number": 294,
+          "title": "Annual reports of Constitutional Bodies",
+          "file": "articles/part32/article294.json"
+        }
+      ]
+    },
+    {
+      "part_number": 33,
+      "title": "Transitional Provisions",
+      "articles": [
+        {
+          "article_number": 295,
+          "title": "Constitution of Federal Commission",
+          "file": "articles/part33/article295.json"
+        },
+        {
+          "article_number": 296,
+          "title": "Constituent Assembly to be converted into Legislature-Parliament",
+          "file": "articles/part33/article296.json"
+        },
+        {
+          "article_number": 297,
+          "title": "Provisions relating to the President and the Vice-President",
+          "file": "articles/part33/article297.json"
+        },
+        {
+          "article_number": 298,
+          "title": "Provisions relating to formation of Council of Ministers",
+          "file": "articles/part33/article298.json"
+        },
+        {
+          "article_number": 299,
+          "title": "Provisions relating to Speaker and Deputy Speaker",
+          "file": "articles/part33/article299.json"
+        },
+        {
+          "article_number": 300,
+          "title": "Provisions relating to Judiciary",
+          "file": "articles/part33/article300.json"
+        },
+        {
+          "article_number": 301,
+          "title": "Provisions relating to Constitutional Bodies and officials thereof",
+          "file": "articles/part33/article301.json"
+        },
+        {
+          "article_number": 302,
+          "title": "Formation and operation of government services at State and Local levels",
+          "file": "articles/part33/article302.json"
+        },
+        {
+          "article_number": 303,
+          "title": "Provisions relating to Local Bodies",
+          "file": "articles/part33/article303.json"
+        },
+        {
+          "article_number": 304,
+          "title": "Existing laws to remain in force",
+          "file": "articles/part33/article304.json"
+        },
+        {
+          "article_number": 305,
+          "title": "Power to remove difficulties",
+          "file": "articles/part33/article305.json"
+        }
+      ]
+    },
+    {
+      "part_number": 34,
+      "title": "Definitions and Interpretations",
+      "articles": [
+        {
+          "article_number": 306,
+          "title": "Definitions and interpretations",
+          "file": "articles/part34/article306.json"
+        }
+      ]
+    },
+    {
+      "part_number": 35,
+      "title": "Short Title, Commencement and Repeal",
+      "articles": [
+        {
+          "article_number": 307,
+          "title": "Short title and commencement",
+          "file": "articles/part35/article307.json"
+        },
+        {
+          "article_number": 308,
+          "title": "Repeal",
+          "file": "articles/part35/article308.json"
+        }
+      ]
+    }
+  ]
 }
-

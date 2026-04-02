@@ -1,0 +1,79 @@
+{
+  "article_number": 223,
+  "title": "Composition of Municipal Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Each Municipality shall have a Municipal Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Municipal Assembly under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall consist of the Mayor and the Deputy Mayor of the Municipal Executive, Ward Chairpersons, and four members elected from each Ward and members of the Municipal Executive elected from Dalit or minority communities pursuant to clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "of Article 216."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "A Municipal Assembly to be formed under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall have representation of at least two women from each Ward."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Each ward of a Municipality shall have a Ward Committee composed of one Ward Chairperson and four members as provided for in the Federal law. Such Ward Chairperson and Ward members shall be elected in accordance with the first past the post electoral system."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Every person who has completed the age of eighteen years and whose name is included in the electoral rolls of the Municipality shall have a right to vote as provided for in the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "A person who has the following qualification shall be qualified to be a candidate for the office of member of the Municipal Assembly:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "being a citizen of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "having completed the age of twenty one years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "being his or her name included in the electoral rolls of the Municipality, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "not being disqualified by any law."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "Matters relating to the election to the Municipal Assembly and other matters pertaining thereto shall be as provided for in the Federal law."
+    }
+  ],
+  "part_number": 18
+}

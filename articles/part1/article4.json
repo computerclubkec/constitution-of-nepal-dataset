@@ -5,7 +5,7 @@
     {
       "type": "clause",
       "clause_number": 1,
-      "text": "Nepal is an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state."
+      "text": "Nepal is an independent, indivisible, sovereign, secular, inclusive, democratic, socialism-oriented, federal democratic republican state. Explanation: For the purposes of this Article, \"secular\" means religious, cultural freedoms, including protection of religion, culture handed down from the time immemorial."
     },
     {
       "type": "clause",
@@ -14,10 +14,12 @@
       "subclauses": [
         {
           "type": "subclause",
-          "text": "the territory existing at the time of commencement of this Constitution."
+          "subclause_number": "a",
+          "text": "the territory existing at the time of commencement of this Constitution, and"
         },
         {
           "type": "subclause",
+          "subclause_number": "b",
           "text": "such other territory as may be acquired after the commencement of this Constitution."
         }
       ]
