@@ -1,0 +1,22 @@
+{
+  "article_number": 210,
+  "title": "Votes on Account",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Notwithstanding anything contained elsewhere in this Part, a portion of the expenditure estimated for the financial year may, when a State Appropriation Bill is under consideration, be incurred in advance under a State Act."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Vote on Account Bill shall not be introduced until the estimates of revenues and expenditures have been laid in accordance with Article 207, and the sums involved in the Vote on Account shall not exceed one-third of the estimate of expenditures for the financial year."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The expenditures incurred in accordance with the State Vote on Account Act shall be included in the State Appropriation Bill."
+    }
+  ],
+  "part_number": 16
+}

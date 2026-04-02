@@ -1,0 +1,27 @@
+{
+  "article_number": 61,
+  "title": "President",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a President of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The President shall be the head of state of Nepal. He or she shall perform his or her functions in accordance with this Constitution and the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The President shall promote the national unity of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The main duty of the President shall be to abide by and protect this Constitution."
+    }
+  ],
+  "part_number": 6
+}

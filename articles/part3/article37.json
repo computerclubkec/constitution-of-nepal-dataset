@@ -1,0 +1,17 @@
+{
+  "article_number": 37,
+  "title": "Right to housing",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every citizen shall have the right to an appropriate housing."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "No citizen shall be evicted from the residence owned by him or her nor shall his or her residence be infringed except in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

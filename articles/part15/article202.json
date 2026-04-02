@@ -1,0 +1,49 @@
+{
+  "article_number": 202,
+  "title": "Ordinance",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "If, at any time, except when the State Assembly is in session, a circumstance exists which renders it necessary to take immediate action, the Chief of State may, on the recommendation of the State Council of Ministers, promulgate an Ordinance."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "An Ordinance promulgated under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall have the same force and effect as an Act. Provided that every such Ordinance:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "shall be tabled at the session of the State Assembly held after the promulgation, and if not passed by the State Assembly, it shall ipso facto cease to be effective,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "may be repealed at any time by the Chief of State, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "shall, unless rendered ineffective or repealed under sub- clause"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": ", ipso facto cease to be effective at the expiration of sixty days after the day on which a meeting of the State Assembly is held. Part -16 State Financial Procedures"
+        }
+      ]
+    }
+  ],
+  "part_number": 15
+}

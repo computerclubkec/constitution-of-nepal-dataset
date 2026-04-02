@@ -1,0 +1,49 @@
+{
+  "article_number": 86,
+  "title": "Composition of National Assembly and term of office of its members",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The National Assembly shall be a permanent House."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The National Assembly shall consist of fifty nine members as follows:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "fifty six elected members consisting of at least three women, one Dalit and one from persons with disabilities or minorities, from each State by an electoral college composed of members of the State Assembly, chairpersons and vice-chairpersons of the Village Bodies, and Mayors and Deputy-Mayors of the Municipalities, with different weightage of vote by members of the State Assembly, chairpersons and vice-chairpersons of the Village Bodies, and Mayors and Deputy-Mayors of the Municipalities, as provided for in the Federal law,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Three members consisting of at least one woman nominated by the President on recommendation of the Government of Nepal."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The term of office of the members of the National Assembly shall be six years. The term of office of one third of the members of the National Assembly shall expire in every two years. Provided that, for the first time, after the commencement of this Constitution, arrangements shall be made by drawing lots to retire one-third of the members on the expiry of two years, another one-third on the expiry of four years, and the final one-third on the expiry of six years."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "In computing the term of office of the members of the National Assembly for the first time after the commencement of this Constitution, the term of office of all members shall be deemed to have commenced on the day on which the first session of the National Assembly is held."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Any vacancy of seat in the National Assembly shall be filled for the remainder of the term of office in the same manner of election or nomination as in which the seat of the vacating member was filled."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "Other matters relating to election to the members of the National Assembly shall be as provided for in the Federal law."
+    }
+  ],
+  "part_number": 8
+}

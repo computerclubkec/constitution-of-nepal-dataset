@@ -1,17 +1,564 @@
 {
-    "article_number": 51,
-    "title": " Policies of the State",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "to keep intact the national unity, while protecting the freedom, sovereignty, territorial integrity and independence of Nepal"
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "to maintain law and order by developing a national security system"
-      }
-    ],
-    "part_number": 4
+  "article_number": 51,
+  "title": "Policies of the State",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to keep intact the national unity, while protecting the freedom, sovereignty, territorial integrity and independence of Nepal,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to promote the national unity while developing mutual cooperative relations between the Federal Units by maintaining mutual cohesion, harmony and solidarity between various castes, tribes, religions, languages, cultures and communities,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to maintain law and order by developing a national security system,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to guarantee the overall human security system,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to make all security organs, including the Nepal Army, Nepal Police and Armed Police Force Nepal, competent, strong, professional, inclusive and accountable to the people, on the basis of national security policies,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to make and keep the citizens ready and competent to serve the nation as and when necessary,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to make proper use, in nations' interest, of the knowledge, skills and experiences of former public employees including former employees, military and police.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "Policies relating to political and governance system of State:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to guarantee the best interests and prosperity of the people through economic, social and cultural transformations, while safeguarding, consolidating and developing political achievements,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to maintain rule of law by protecting and promoting human rights,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to implement international treaties, agreements to which Nepal is a party,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to guarantee good governance by ensuring the equal and easy access of the people to the services and facilities delivered by the State, while making public administration fair, competent, impartial, transparent, free from corruption, accountable and participatory,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to make necessary provisions to make mass media fair, healthy, impartial, decent, responsible and professional,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to develop and expand harmonious and cooperative relations between the Federal Units by way of sharing of responsibilities, resources and administration between them.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "Relating to social and cultural transformation:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to build the society founded on cordial social relations by developing a healthy and civilized culture,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to carrying out studies, research works, excavation and dissemination for the protection, promotion and development of ancient, archaeological and cultural heritages,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to make community development through enhancement of local public participation, by promoting and mobilizing the creativity of local communities in social, cultural and service-oriented works,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to focus on the development of arts, literature and music which form cultural heritages,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to end all forms of discrimination, inequality, exploitation and injustice in the name of religion, custom, usage, practice and tradition existing in the society,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to protect and develop languages, scripts, culture, literature, arts, motion pictures and heritages of various castes, tribes, and communities on the basis of equality and co-existence, while maintaining the cultural diversity of the country,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to pursue a multi-lingual policy.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "Relating to economy, industry and commerce:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to enhance national economy through partnership and independent development of the public, private and cooperative sectors,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to achieve economic prosperity by way of optimum mobilization of the available means and resources, while focusing on the role of private sector in economy,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to promote the cooperative sector and mobilize it in national development to the maximum extent,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to encourage and mobilize the economic sector in the overall national development, while providing for regulation to maintain fairness, accountability and competition in all of its activities,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to make equitable distribution of the available means and resources and benefits of economic development,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to diversify and expand markets for goods and services, while promoting exports through development and expansion of industries upon identifying areas of comparative advantage,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to protect the interests of consumers by maintaining trade fairness and discipline by making national economy competitive, while ending activities such as creating black marketing, monopoly, artificial scarcity and restricting competition,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "to protect and promote domestic industries and resources and accord priority to domestic investment based on Nepalese labour, skills and raw materials for the development of national economy,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "to give priority to domestic investment for the development of national economy,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 10,
+      "text": "to encourage foreign capital and technological investment in areas of import substitution and export promotion, in consonance with national interest, and encourage and mobilize such investment in infrastructure building,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 11,
+      "text": "to make the obtaining of foreign assistance transparent, while making the national needs and priorities as the basis for obtaining foreign assistance, and incorporating amounts received in form of foreign assistance in the national budget,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 12,
+      "text": "to utilize knowledge, skill, technology and capital of the non- resident Nepalese in the national development,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 13,
+      "text": "to give dynamism to the economic development by establishing coordination between the States and the States and the Federation in relation to industrial corridors, special economic zones, national projects and projects involving foreign investment.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "Policies relating to agriculture and land reforms:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to make scientific land reforms having regard to the interests of the farmers, while ending the dual ownership existing in the lands,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to enhance product and productivity by carrying out land pooling, while discouraging inactive land ownership,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to make land management and commercialization, industrialization, diversification and modernization of agriculture, by pursuing land-use policies to enhance agriculture product and productivity, while protecting and promoting the rights and interests of the farmers,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to make proper use of lands, while regulating and managing lands on the basis of, inter alia, productivity, nature of lands and ecological balance,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to provide for the farmers' access to agricultural inputs, agro- products at fair price and market.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "f",
+          "text": "Policies relating to development:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to formulate sustainable socio-economic development strategies and programs under the regional development plan for inclusive economic development with regional balance, and implement them in a coordinative manner,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to develop balanced, environment friendly, quality and sustainable physical infrastructures, while according priority to the regions lagging behind from development perspective,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to enhance local public participation in the process of development works,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to enhance investment in scientific study, research works and in invention, progress and development of science and technology, and protect scientists, technologists, intellectual and eminent talents,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to ensure easy and simple access of the general public to information technology by developing and expanding information technology to the tune of national needs, and make optimum utilization of information technology in the national development,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to make provisions enabling the general public to enjoy fruits of development in a just manner, while according priority to the indigent citizens in the distribution of such fruits,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to develop an integrated national identity management information system and manage all kinds of information and data of the citizens in an integrated manner, and linking such system with the services and facilities provided by the State and with national development plans,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "to update demographic statistics and linking it with national development plans.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "g",
+          "text": "Policies relating to protection, promotion and use of natural resources:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to protect, promote, and make environmental friendly and sustainable use of, natural resources available in the country, in consonance with national interest and adopting the concept of inter-generational equity, and make equitable distribution of fruits, according priority and preferential right to the local communities,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to make multi-purpose development of water resources, while according priority to domestic investment based on public participation,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to ensure reliable supply of energy in an affordable and easy manner, and make proper use of energy, for the fulfilment of the basic needs of citizens, by generating and developing renewable energy,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to develop sustainable and reliable irrigation by making control of water-induced disasters, and river management,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to conserve, promote, and make sustainable use of, forests, wildlife, birds, vegetation and bio-diversity, by mitigating possible risks to environment from industrial and physical development, while raising awareness of general public about environment cleanliness,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to maintain the forest area in necessary lands for ecological balance,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to adopt appropriate measures to abolish or mitigate existing or possible adverse environmental impacts on the nature, environment or biological diversity,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "to pursue the principles of environmentally sustainable development such as the principles of polluter pays, of precaution in environmental protection and of prior informed consent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "to make advance warning, preparedness, rescue, relief and rehabilitation in order to mitigate risks from natural disasters.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "h",
+          "text": "Policies relating to basic needs of the citizens:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to prepare human resources that are competent, competitive, ethical, and devoted to national interests, while making education scientific, technical, vocational, empirical, employment and people-oriented,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to make private sector investment made in education service- oriented by regulating and managing such investment, while enhancing the State's investment in the education sector,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to make higher education easy, qualitative and accessible, and free gradually,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to establish and promote community information centres and libraries for the personality development of citizens,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to keep on enhancing investment necessary in the public health sector by the State in order to make the citizens healthy,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to ensure easy, convenient and equal access of all to quality health services,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to protect and promote health systems including Ayurveda, as a traditional medical system of Nepal, natural therapy and homeopathy system,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "to make private sector investment in the health sector service- oriented by regulating and managing such investment, while enhancing the State's investment in this sector,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "to focus on health research and keep on increasing the number of health institutions and health workers in order to make health services widely available and qualitative,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 10,
+      "text": "to increase average life expectancy by reducing maternal and infant mortality rate, while encouraging family planning for population management on the basis of Nepal's capacity and need,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 11,
+      "text": "to manage unplanned settlement and develop planned and systematic settlement,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 12,
+      "text": "to provide for sustainable production, supplies, storage, security, and easy and effective distribution of foods by encouraging food production in tune with climate and soil, in consonance with the concept of food sovereignty, while enhancing investment in the agriculture sector,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 13,
+      "text": "to ensure planned supply system by according special priority to the remote and backward regions, while ensuring equal access of all citizens to basic goods and services,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 14,
+      "text": "to enhance investment in the transportation sector, while ensuring simple, easy and equal access of the citizens to transportation facilities, and to make the transportation sector safe, systematic and persons with disabilities friendly by encouraging public transportation and regulating private transportation, while according priority to the environment friendly technologies,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 15,
+      "text": "to arrange for access to medical treatment while ensuring citizen's health insurance.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "i",
+          "text": "Policies relating to labour and employment:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to make competent and professional the labour force that has remained as the main socio-economic strength of the country and enhance employment within the country, while ensuring a situation enabling all to work,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to guarantee social security, while ensuring the basic rights of all labours, in consonance with the concept of decent labour,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to abolish all forms of labour exploitation including child labour,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to encourage participation of labours in management, while maintain cordial relations between the labours and entrepreneurs,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to regulate and manage the sector in order to make foreign employment free from exploitation, safe and systematic and to guarantee employment and rights of the labours,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to encourage to mobilize the capital, skills, technology and experience gained from foreign employment in productive sectors in the country.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "j",
+          "text": "Policies relating to social justice and inclusion:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to keep on making appropriate arrangements for the livelihoods of the helpless single women, while according priority to them in employment on the basis of skills, competency and qualification,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to make self-dependent the women who are vulnerable, subjected to social and family exclusion and victims of violence self-reliant by making their rehabilitation, protection and empowerment,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to ensure enjoyment of requisite services and facilities at the reproductive stage,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "to evaluate economically the work and contribution such as maintenance of children and care of families,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "to take into consideration primarily of the best interests of the child,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "to identify the freed bonded labours, Kamlari, Harawa, Charawa, tillers, landless, squatters and rehabilitate them by providing housing, housing plot for residence and cultivable land or employment for their livelihoods,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "to create an atmosphere conducive to the full enjoyment of the political, economic, social and cultural rights, while enhancing the participation of youths in national development, to make their personality development, while providing special opportunity in areas including education, health and employment for the empowerment and development of the youths and provide them with appropriate opportunities for the overall development of the State,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "to make the indigenous nationalities participate in decisions concerning that community by making special provisions for opportunities and benefits in order to ensure the right of these nationalities to live with dignity, along with their identity, and protect and promote traditional knowledge, skill, culture, social tradition and experience of the indigenous nationalities and local communities,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 9,
+      "text": "to make special provisions for opportunities and benefits to minority communities to enjoy social and cultural rights, with maintaining their identity,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 10,
+      "text": "to make special provisions for equal distribution of economic, social and cultural opportunities and benefits to the Madhesi community, Muslims and backward class, and for opportunities and benefits to the indigent citizens within such communities for their protection, upliftment, empowerment and development,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 11,
+      "text": "to make special provisions for opportunities and benefits for the protection, upliftment, empowerment and development of the citizens of the oppressed and backward regions and for the fulfilment of their basic needs,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 12,
+      "text": "to accord priority to the indigent within all sexes, regions and communities in the provision of social security and social justice,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 13,
+      "text": "to make planned investment in sports and sport-persons in order to prepare healthy, competent and disciplined citizens, and to develop sports as a means of consolidating national unity and enhancing national prestige at the international level,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 14,
+      "text": "to adopt a single door system for the establishment, approval, operation, regulation and management of community-based and national or international non-governmental organizations and to involve such organizations only in the sectors of national need and priority, while making investment and role of such organizations transparent and accountable.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "k",
+          "text": "Policies relating to justice and penal system:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to make the administration of justice speedy, efficient, widely available, economical, impartial, effective, and accountable to people,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to pursue alternative means such as mediation and arbitration for the settlement of disputes of general nature,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "to adopt effective measures for the control of corruption and irregularities in all sectors including political, administrative, judicial and social sectors.",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "l",
+          "text": "Policies relating to tourism: To develop eco-friendly tourism industries as an important base of national economy by way of identification, protection, promotion and publicity of the ancient, cultural, religious, archaeological and natural heritages of Nepal, to make environment and policy required for the development of tourism culture, and to accord priority to local people in the distribution of benefits of tourism industries."
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "m",
+          "text": "Policies relating to international relations:"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "to conduct an independent foreign policy based on the Charter of the United Nations, non-alignment, principles of Panchsheel, international law and the norms of world peace, taking into consideration of the overall interest of the nation, while remaining active in safeguarding the sovereignty, territorial integrity, independence and national interest of Nepal,"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "to review treaties concluded in the past, and make treaties, agreements based on equality and mutual interest."
+    }
+  ],
+  "part_number": 4
 }

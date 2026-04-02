@@ -1,0 +1,22 @@
+{
+  "article_number": 67,
+  "title": "Vice-President",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be a Vice-president of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The functions to be performed by the President shall be performed by the Vice-president during the absence of the President."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If a person who holds a political office to be filled by way of election, nomination or appointment is appointed as the Vice-president, his or her such office shall ipso facto be vacant."
+    }
+  ],
+  "part_number": 6
+}

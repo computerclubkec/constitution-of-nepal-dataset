@@ -1,0 +1,64 @@
+{
+  "article_number": 91,
+  "title": "Speaker and Deputy Speaker of House of Representatives",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The members of the House of Representatives shall, not later than fifteen days of the date of holding of the first meeting of the House of Representatives, elect a Speaker and a Deputy Speaker from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Election under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall be so held that there is one woman out of the Speaker and the Deputy Speaker, and the Speaker and the Deputy Speaker of the House of Representatives shall be representatives from different parties. Provided that if there is no representation of more than one party in the House of Representatives or no candidacy is filed by more than one party in spite of representation, nothing shall prevent the members of the same party from being the Speaker and the Deputy Speaker of the House of Representatives."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If the office of the Speaker or the Deputy Speaker falls vacant, the members of the House of Representatives shall fill the vacancy by electing the Speaker or Deputy Speaker from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The Deputy Speaker shall, in the absence of the Speaker, chair the House of Representatives."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "If election to the Speaker and the Deputy Speaker is not held or if both the positions become vacant, the attending member who is by age the senior-most shall chair the meeting of the House of Representatives."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The office of the Speaker or Deputy Speaker of the House of Representatives shall become vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she ceases to be a member of the House of Representatives, Provided that, in the event of dissolution of the House of Representatives, the Speaker and the Deputy Speaker of the House of Representatives holding their respective offices shall continue in office until the previous day of the filing of nominations for another election to the House of Representatives,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she tenders resignation in writing,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if a resolution is passed by a majority of two-thirds of the total number of the then members of the House of Representatives that his or her conduct is not compatible with his or her office."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The Deputy Speaker shall chair a meeting at which deliberations are to be held on a resolution that the conduct of the Speaker of the House of Representatives is not compatible with his or her office. The Speaker of the House of Representatives may take part and vote in the deliberations on such resolution."
+    }
+  ],
+  "part_number": 8
+}

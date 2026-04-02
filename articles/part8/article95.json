@@ -1,0 +1,17 @@
+{
+  "article_number": 95,
+  "title": "Address by President",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The President may address either a meeting of any House or a joint sitting of both Houses of the Federal Parliament, and summon the members for that purpose."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The President shall address the first session after election to the House of Representatives and a joint sitting of both Houses of the Federal Parliament after the commencement of the first session of each year."
+    }
+  ],
+  "part_number": 8
+}

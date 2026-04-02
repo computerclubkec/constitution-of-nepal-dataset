@@ -1,12 +1,11 @@
-  {
-    "article_number": 48,
-    "title": "Duties of citizens",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every citizen shall have to safeguard the nationality, sovereignty and integrity of Nepal, while being loyal to the nation"
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 48,
+  "title": "Duties of citizens",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Every citizen shall have the following duties: (a) to safeguard the nationality, sovereignty and integrity of Nepal, while being loyal to the nation, (b) to abide by the Constitution and law, (c) to render compulsory service as and when the State so requires, (d) to protect and preserve public property. Part-4 Directive Principles, Policies and Obligations of the State"
+    }
+  ],
+  "part_number": 3
+}

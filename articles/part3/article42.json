@@ -1,12 +1,32 @@
-  {
-    "article_number": 42,
-    "title": "Right to social justice",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "The citizens with disabilities shall have the right to live with dignity and honour, with the identity of their diversity, and have equal access to public services and facilities."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 42,
+  "title": "Right to social justice",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The socially backward women, Dalit, indigenous people, indigenous nationalities, Madhesi, Tharu, minorities, persons with disabilities, marginalized communities, Muslims, backward classes, gender and sexual minorities, youths, farmers, labourers, oppressed or citizens of backward regions and indigent Khas Arya shall have the right to participate in the State bodies on the basis of inclusive principle."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The indigent citizens and citizens of the communities on the verge of extinction shall have the right to get special opportunities and benefits in education, health, housing, employment, food and social security for their protection, upliftment, empowerment and development."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The citizens with disabilities shall have the right to live with dignity and honour, with the identity of their diversity, and have equal access to public services and facilities."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Every farmer shall have the right to have access to lands for agro activities, select and protect local seeds and agro species which have been used and pursued traditionally, in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The families of the martyrs who have sacrificed their life, persons who were forced to disappear, and those who became disabled and injured in all popular movements, armed conflicts and revolutions that have been carried out for progressive democratic changes in Nepal, democracy fighters, conflict victims and displaced ones, persons with disabilities, the injured and victims shall have the right to get a prioritized opportunity, with justice and due respect, in education, health, employment, housing and social security, in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

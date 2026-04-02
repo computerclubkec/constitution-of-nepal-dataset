@@ -1,17 +1,32 @@
-  {
-    "article_number": 18,
-    "title": "Right to equality",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "All citizens shall be equal before the law."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "No person shall be denied the equal protection of the laws."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 18,
+  "title": "Right to equality",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "All citizens shall be equal before law. No person shall be denied the equal protection of law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "No discrimination shall be made in the application of general laws on grounds of origin, religion, race, caste, tribe, sex, physical condition, condition of health, marital status, pregnancy, economic condition, language or region, ideology or on similar other grounds."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The State shall not discriminate citizens on grounds of origin, religion, race, caste, tribe, sex, economic condition, language, region, ideology or on similar other grounds. Provided that nothing shall be deemed to prevent the making of special provisions by law for the protection, empowerment or development of the citizens including the socially or culturally backward women, Dalit, indigenous people, indigenous nationalities, Madhesi, Tharu, Muslim, oppressed class, Pichhada class, minorities, the marginalized, farmers, labours, youths, children, senior citizens, gender and sexual minorities, persons with disabilities, persons in pregnancy, incapacitated or helpless, backward region and indigent Khas Arya. Explanation: For the purposes of this Part and Part 4, \"indigent\" means a person who earns income less than that specified by the Federal law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "No discrimination shall be made on the ground of gender with regard to remuneration and social security for the same work."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "All offspring shall have the equal right to the ancestral property without discrimination on the ground of gender."
+    }
+  ],
+  "part_number": 3
+}

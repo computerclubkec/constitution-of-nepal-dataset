@@ -1,0 +1,64 @@
+{
+  "article_number": 182,
+  "title": "Speaker and Deputy Speaker of State Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The members of the State Assembly shall, not later than fifteen days of the date of holding of the first meeting of the State Assembly, elect a State Speaker and a Deputy State Speaker from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Election under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "shall be so held that there is one woman out of the State Speaker and the Deputy State Speaker, and the State Speaker and the Deputy State Speaker of the State Assembly shall be representatives from different parties. Provided that if there is no representation of more than one party in the State Assembly or no candidacy is filed by more than one party despite representation, nothing shall prevent the members of the same party from being the State Speaker and the Deputy State Speaker of the State Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If the office of the State Speaker or the Deputy State Speaker falls vacant, the members of the State Assembly shall fill the vacancy through election to the State Speaker or the Deputy State Speaker from amongst themselves."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "The Deputy State Speaker shall, in the absence of the State Speaker of the State Assembly, chair the State Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "If the election to the State Speaker and the Deputy State Speaker has not taken place, or if both the positions have become vacant, the attending member who is by age the senior-most shall chair the meeting of the State Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The office of the State Speaker or the Deputy State Speaker of the State Assembly shall become vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she ceases to be a member of the State Assembly, Provided that, in the event of the dissolution of the State Assembly, the State Speaker and the Deputy State Speaker of the State Assembly holding their respective offices shall continue in office until the previous day of the filing of nominations for another election to the State Assembly,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she resigns in writing,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if a resolution is passed by a majority of two-thirds of the total number of the then members of the State Assembly to the effect that his or her conduct is not compatible with his or her office."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The State Deputy Speaker shall preside over a meeting at which deliberations are to be held on a motion that the conduct of the Speaker of the State Assembly is not compatible with his or her office. The State Speaker shall be entitled to take part and vote in the deliberations on such motion."
+    }
+  ],
+  "part_number": 14
+}

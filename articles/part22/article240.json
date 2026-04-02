@@ -1,0 +1,106 @@
+{
+  "article_number": 240,
+  "title": "Auditor General",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be an Auditor General of Nepal."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The President shall, on the recommendation of the Constitutional Council, appoint the Auditor General."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The term of office of the Auditor General shall be six years from the date of appointment."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Notwithstanding anything contained in clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": ", the office of the Auditor General shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the President,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if he or she attains the age of sixty-five years,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if a motion of impeachment is passed against him or her under Article 101,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "The Auditor General appointed under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "shall not be eligible for reappointment."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "A person shall be eligible to be appointed as the Auditor General if he or she possesses the following qualification:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "having served in the Special Class of the Government of Nepal or having at least twenty years of experiences in audit related work, after having obtained a bachelor's degree in management, commerce or accounting from a recognized university or having passed a chartered accountancy examination,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "not being a member of any political party at the time of appointment,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "having attained the age of forty five years, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "being of high moral character."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 7,
+      "text": "The remuneration and conditions of service of the Auditor General shall be as provided for in the Federal law. The remuneration and conditions of service of the Auditor General shall not, so long as he or she holds office, be altered to his or her disadvantage. Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+    },
+    {
+      "type": "clause",
+      "clause_number": 8,
+      "text": "A person once appointed as the Auditor General shall not be eligible for appointment in another government service. Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+    }
+  ],
+  "part_number": 22
+}

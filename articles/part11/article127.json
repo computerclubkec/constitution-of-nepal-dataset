@@ -1,0 +1,39 @@
+{
+  "article_number": 127,
+  "title": "Courts",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "There shall be the following courts in Nepal:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "Supreme Court,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "High Court, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "District Court."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "In addition to the courts under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ", judicial bodies may be formed at the Local level to try cases under law or other bodies as required may be formed to pursue alternative dispute settlement methods."
+    }
+  ],
+  "part_number": 11
+}

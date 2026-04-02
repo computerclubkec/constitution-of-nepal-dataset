@@ -1,12 +1,37 @@
-  {
-    "article_number": 38,
-    "title": " Rights of women",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": " Every woman shall have equal lineage right without gender based discrimination."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 38,
+  "title": "Rights of women",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every woman shall have equal lineage right without gender based discrimination."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every woman shall have the right to safe motherhood and reproductive health."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "No woman shall be subjected to physical, mental, sexual, psychological or other form of violence or exploitation on grounds of religion, social, cultural tradition, practice or on any other grounds. Such act shall be punishable by law, and the victim shall have the right to obtain compensation in accordance with law."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "Women shall have the right to participate in all bodies of the State on the basis of the principle of proportional inclusion."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Women shall have the right to obtain special opportunity in education, health, employment and social security, on the basis of positive discrimination."
+    },
+    {
+      "type": "clause",
+      "clause_number": 6,
+      "text": "The spouse shall have the equal right to property and family affairs."
+    }
+  ],
+  "part_number": 3
+}

@@ -1,0 +1,17 @@
+{
+  "article_number": 199,
+  "title": "Procedures for passage of Bills",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A Bill passed by the State Assembly shall be presented to the Chief of State for assent."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "If a session of the State Assembly terminates while a Bill is under consideration, deliberations on the Bill may continue at the succeeding session. Provided that if the State Assembly is dissolved or its term expires when any Bill is under its consideration, such a Bill shall lapse."
+    }
+  ],
+  "part_number": 15
+}

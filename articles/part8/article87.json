@@ -1,0 +1,49 @@
+{
+  "article_number": 87,
+  "title": "Qualification for member",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "A person who has the following qualification shall be qualified to become a member of the Federal Parliament:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "being a citizen of Nepal,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "having completed the age of twenty five years, for the House of Representatives, and the age of thirty five years, for the National Assembly,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "not having been convicted of a criminal offense involving moral turpitude,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "not being disqualified by any Federal law, and"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "e",
+          "text": "not holding any office of profit. Explanation: For the purposes of this clause, \"office of profit\" means any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "No person may be a member of both Houses at the same time."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If a person who holds a political office to be filled by way of election, nomination or appointment is elected or nominated as a member of the Federal Parliament under this Part, his or her such office shall ipso facto be vacant from the day on which he or she takes an oath of office of member of the Federal Parliament."
+    }
+  ],
+  "part_number": 8
+}

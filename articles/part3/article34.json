@@ -1,12 +1,22 @@
 {
-    "article_number": 34,
-    "title": "Right to labour",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every labourer shall have the right to practice appropriate labour."
-      }
-    ],
-    "part_number": 3
+  "article_number": 34,
+  "title": "Right to labour",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every labourer shall have the right to practice appropriate labour. Explanation: For the purposes of this Article, \"labourer\" means a labourer or worker who does physical or mental work for an employer in consideration for remuneration."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "Every labourer shall have the right to appropriate remuneration, facilities and contributory social security."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Every labourer shall have the right to form and join trade unions and to engage in collective bargaining, in accordance with law."
+    }
+  ],
+  "part_number": 3
 }

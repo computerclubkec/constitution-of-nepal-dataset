@@ -1,12 +1,17 @@
-  {
-    "article_number": 44,
-    "title": "Rights of the consumer",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every consumer shall have the right to obtain quality goods and services."
-      }
-    ],
-    "part_number": 3
-  }
+{
+  "article_number": 44,
+  "title": "Rights of the consumer",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every consumer shall have the right to obtain quality goods and services."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A person who has suffered injury from any substandard goods or services shall have the right to obtain compensation in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

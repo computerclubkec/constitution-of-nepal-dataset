@@ -10,7 +10,14 @@
     {
       "type": "clause",
       "clause_number": 2,
-      "text": "A State may, by a State law, determine one or more than one languages of the nation spoken by a majority of people within the State as its official language(s), in addition to the Nepali language."
+      "text": "A State may, by a State law, determine one or more than one languages of the nation spoken by a majority of people within the State as its official language",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "s",
+          "text": ", in addition to the Nepali language."
+        }
+      ]
     },
     {
       "type": "clause",

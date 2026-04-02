@@ -1,0 +1,93 @@
+{
+  "article_number": 169,
+  "title": "Vacation of office of Chief Minister and Minister",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The office of the Chief Minister shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the Chief of State,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if a vote of no-confidence is passed against him or her under Article 188 or a vote of confidence is not passed,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if he or she ceases to be a member of the State Assembly,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The office of a Minister shall be vacant in any of the following circumstances:",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": "if he or she tenders resignation in writing to the Chief Minister,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "if the Chief Minister removes him or her from office,"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "if the office of the Chief Minister falls vacant under sub-clause"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "a",
+          "text": ","
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "b",
+          "text": "or"
+        },
+        {
+          "type": "subclause",
+          "subclause_number": "c",
+          "text": "of clause"
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ",",
+      "subclauses": [
+        {
+          "type": "subclause",
+          "subclause_number": "d",
+          "text": "if he or she dies."
+        }
+      ]
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "Even though the office of the Chief Minister falls vacant under clause"
+    },
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": ", the same Council of Ministers shall continue to act until another State Council of Ministers is constituted. Provided that if the Chief Minister dies, the senior-most Minister shall act as the Chief Minister until a new Chief Minister is appointed."
+    }
+  ],
+  "part_number": 13
+}

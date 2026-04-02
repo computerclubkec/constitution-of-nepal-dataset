@@ -1,17 +1,42 @@
 {
-    "article_number": 29,
-    "title": "Right to clean environment",
-    "content": [
-      {
-        "type": "clause",
-        "clause_number": 1,
-        "text": "Every citizen shall have the right to live in a clean environment."
-      },
-      {
-        "type": "clause",
-        "clause_number": 2,
-        "text": "The State shall make arrangements to protect and improve the environment."
-      }
-    ],
-    "part_number": 3
-  }
+  "article_number": 29,
+  "title": "Right against exploitation",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Every person shall have the right against exploitation."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "No person shall be exploited in any manner on the grounds of religion, custom, tradition, usage, practice or on any other grounds."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "No one shall be subjected to trafficking nor shall one be held in slavery or servitude."
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "No one shall be forced to work against his or her will. Provided that nothing shall be deemed to prevent the making of law empowering the State to require citizens to perform compulsory service for public purposes."
+    },
+    {
+      "type": "clause",
+      "clause_number": 5,
+      "text": "Act contrary to clauses"
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "and"
+    },
+    {
+      "type": "clause",
+      "clause_number": 4,
+      "text": "shall be punishable by law and the victim shall have the right to obtain compensation from the perpetrator in accordance with law."
+    }
+  ],
+  "part_number": 3
+}

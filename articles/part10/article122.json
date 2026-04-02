@@ -1,0 +1,22 @@
+{
+  "article_number": 122,
+  "title": "Votes on account",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "Notwithstanding anything contained elsewhere in this Part, a portion of the expenditure estimated for the financial year may, when an Appropriation Bill is under consideration, be incurred in advance, as provided for in the Federal Act."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "A Vote on Account Bill shall not be introduced until the estimates of revenues and expenditures have been laid in accordance with Article 119, and the sums involved in the Vote on Account shall not exceed one-third of the estimate of expenditures for the financial year."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "The expenditures incurred in accordance with the Federal Vote on Account Act shall be included in the Appropriation Bill."
+    }
+  ],
+  "part_number": 10
+}

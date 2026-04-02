@@ -1,0 +1,22 @@
+{
+  "article_number": 183,
+  "title": "Summoning and prorogation of session of State Assembly",
+  "content": [
+    {
+      "type": "clause",
+      "clause_number": 1,
+      "text": "The Chief of State shall summon a session of the State Assembly within twenty days of the declaration of final results of the election to the State Assembly. Thereafter, the Chief of State shall, from time to time, summon other sessions pursuant to this Constitution. Provided that the interval between the two consecutive sessions shall not exceed six months."
+    },
+    {
+      "type": "clause",
+      "clause_number": 2,
+      "text": "The Chief of State may prorogue the sessions of the State Assembly."
+    },
+    {
+      "type": "clause",
+      "clause_number": 3,
+      "text": "If, during the prorogation or recess of the session of the State Assembly, one-fourth of the total number of its members make a petition that it is expedient to convene a session or meeting, the Chief of State shall specify the date and time for such session or meeting. The State Assembly shall meet or commence its session at the date and time so specified."
+    }
+  ],
+  "part_number": 14
+}
